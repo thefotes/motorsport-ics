@@ -19,7 +19,7 @@ SERIES_CONFIG = {
         "api_url": "https://cf.nascar.com/cacher/2026/1/schedule-combined-feed.json",
     },
     "xfinity_series": {
-        "name": "NASCAR Xfinity Series (O'Reilly Auto Parts)",
+        "name": "NASCAR Xfinity Series",
         "series_id": 2,
         "api_url": "https://cf.nascar.com/cacher/2026/2/schedule-combined-feed.json",
     },

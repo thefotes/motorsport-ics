@@ -7,7 +7,7 @@ X-WR-CALNAME:2026 NASCAR Schedule
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:5ff8ac3b6a454e25@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260117T203000Z
 DTEND:20260118T003000Z
 SUMMARY:NCTS Championship Race (NASCAR Cup Series)
@@ -17,7 +17,7 @@ URL:https://www.nascar.com/live-results/nascar-cup-series/2026-sim-test/
 END:VEVENT
 BEGIN:VEVENT
 UID:2d56c379e22acd33@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260202T010000Z
 DTEND:20260202T050000Z
 SUMMARY:Cook Out Clash at Bowman Gray Stadium (NASCAR Cup Series)
@@ -27,7 +27,7 @@ URL:https://www.nascar.com/live-results/nascar-cup-series/2026-cook-out-clash-at
 END:VEVENT
 BEGIN:VEVENT
 UID:5d70d9a9c2050038@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260213T014500Z
 DTEND:20260213T054500Z
 SUMMARY:America 250 Florida Duel 2 at DAYTONA (NASCAR Cup Series)
@@ -37,7 +37,7 @@ URL:https://www.nascar.com/live-results/nascar-cup-series/2026-duel-2-at-daytona
 END:VEVENT
 BEGIN:VEVENT
 UID:b7b557606573f304@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260213T000000Z
 DTEND:20260213T040000Z
 SUMMARY:America 250 Florida Duel 1 at DAYTONA (NASCAR Cup Series)
@@ -47,7 +47,7 @@ URL:https://www.nascar.com/live-results/nascar-cup-series/2026-duel-1-at-daytona
 END:VEVENT
 BEGIN:VEVENT
 UID:799cb79b13d3d3f6@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260213T050000Z
 DTEND:20260213T090000Z
 SUMMARY:Fresh From Florida 250 (NASCAR Craftsman Truck Series)
@@ -56,18 +56,18 @@ DESCRIPTION:Series: NASCAR Craftsman Truck Series\nTrack: Daytona International 
 URL:https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-fresh-from-florida-250/
 END:VEVENT
 BEGIN:VEVENT
-UID:08ee8dc7fdc70221@nascar-scraper
-DTSTAMP:20260119T175136Z
+UID:ebb018b4c1dc7503@nascar-scraper
+DTSTAMP:20260119T181321Z
 DTSTART:20260214T220000Z
 DTEND:20260215T020000Z
-SUMMARY:United Rentals 300 (NASCAR Xfinity Series (O'Reilly Auto Parts))
+SUMMARY:United Rentals 300 (NASCAR Xfinity Series)
 LOCATION:Daytona International Speedway\, FL
-DESCRIPTION:Series: NASCAR Xfinity Series (O'Reilly Auto Parts)\nTrack: Daytona International Speedway\nLaps: 120\nStart Time: 5:00 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-united-rentals-300/
+DESCRIPTION:Series: NASCAR Xfinity Series\nTrack: Daytona International Speedway\nLaps: 120\nStart Time: 5:00 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-united-rentals-300/
 URL:https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-united-rentals-300/
 END:VEVENT
 BEGIN:VEVENT
 UID:c0f77bc3b1631bc8@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260215T193000Z
 DTEND:20260215T233000Z
 SUMMARY:DAYTONA 500 (NASCAR Cup Series)
@@ -76,18 +76,18 @@ DESCRIPTION:Series: NASCAR Cup Series\nTrack: Daytona International Speedway\nLa
 URL:https://www.nascar.com/live-results/nascar-cup-series/2026-daytona-500/
 END:VEVENT
 BEGIN:VEVENT
-UID:496026f2b833356a@nascar-scraper
-DTSTAMP:20260119T175136Z
+UID:7fc3e77ed72f3737@nascar-scraper
+DTSTAMP:20260119T181321Z
 DTSTART:20260221T220000Z
 DTEND:20260222T020000Z
-SUMMARY:Bennett Transportation & Logistics 250 (NASCAR Xfinity Series (O'Reilly Auto Parts))
+SUMMARY:Bennett Transportation & Logistics 250 (NASCAR Xfinity Series)
 LOCATION:Atlanta Motor Speedway\, GA
-DESCRIPTION:Series: NASCAR Xfinity Series (O'Reilly Auto Parts)\nTrack: Atlanta Motor Speedway\nLaps: 163\nStart Time: 5:00 PM (local)\nTV: CW\nRadio: PRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-bennett-transportation-and-logistics-250/
+DESCRIPTION:Series: NASCAR Xfinity Series\nTrack: Atlanta Motor Speedway\nLaps: 163\nStart Time: 5:00 PM (local)\nTV: CW\nRadio: PRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-bennett-transportation-and-logistics-250/
 URL:https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-bennett-transportation-and-logistics-250/
 END:VEVENT
 BEGIN:VEVENT
 UID:9851b8ddc1663de8@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260221T050000Z
 DTEND:20260221T090000Z
 SUMMARY:Fr8 Racing 208 (NASCAR Craftsman Truck Series)
@@ -97,7 +97,7 @@ URL:https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-fr8-r
 END:VEVENT
 BEGIN:VEVENT
 UID:7426e58b70b5ff02@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260222T200000Z
 DTEND:20260223T000000Z
 SUMMARY:Autotrader 400 (NASCAR Cup Series)
@@ -106,18 +106,18 @@ DESCRIPTION:Series: NASCAR Cup Series\nTrack: Atlanta Motor Speedway\nLaps: 260\
 URL:https://www.nascar.com/live-results/nascar-cup-series/2026-autotrader-400/
 END:VEVENT
 BEGIN:VEVENT
-UID:648abe423af9565a@nascar-scraper
-DTSTAMP:20260119T175136Z
+UID:fa65f421ff3fa758@nascar-scraper
+DTSTAMP:20260119T181321Z
 DTSTART:20260228T200000Z
 DTEND:20260301T000000Z
-SUMMARY:Focused Health 250 (NASCAR Xfinity Series (O'Reilly Auto Parts))
+SUMMARY:Focused Health 250 (NASCAR Xfinity Series)
 LOCATION:Circuit of The Americas\, TX
-DESCRIPTION:Series: NASCAR Xfinity Series (O'Reilly Auto Parts)\nTrack: Circuit of The Americas\nLaps: 65\nStart Time: 3:00 PM (local)\nTV: CW\nRadio: PRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-focused-health-250-cota/
+DESCRIPTION:Series: NASCAR Xfinity Series\nTrack: Circuit of The Americas\nLaps: 65\nStart Time: 3:00 PM (local)\nTV: CW\nRadio: PRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-focused-health-250-cota/
 URL:https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-focused-health-250-cota/
 END:VEVENT
 BEGIN:VEVENT
 UID:b554a5946848d19d@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260228T050000Z
 DTEND:20260228T090000Z
 SUMMARY:NASCAR Craftsman Truck Series Race at St. Petersburg (NASCAR Craftsman Truck Series)
@@ -127,7 +127,7 @@ URL:https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-liuna
 END:VEVENT
 BEGIN:VEVENT
 UID:07a6c821bb6478c4@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260301T203000Z
 DTEND:20260302T003000Z
 SUMMARY:DuraMax Grand Prix (NASCAR Cup Series)
@@ -136,18 +136,18 @@ DESCRIPTION:Series: NASCAR Cup Series\nTrack: Circuit of The Americas\nLaps: 95\
 URL:https://www.nascar.com/live-results/nascar-cup-series/duramax-grand-prix/
 END:VEVENT
 BEGIN:VEVENT
-UID:99cc39b275f322e9@nascar-scraper
-DTSTAMP:20260119T175136Z
+UID:343bbf0fc5d615b8@nascar-scraper
+DTSTAMP:20260119T181321Z
 DTSTART:20260308T003000Z
 DTEND:20260308T043000Z
-SUMMARY:GOVX 200 (NASCAR Xfinity Series (O'Reilly Auto Parts))
+SUMMARY:GOVX 200 (NASCAR Xfinity Series)
 LOCATION:Phoenix Raceway\, AZ
-DESCRIPTION:Series: NASCAR Xfinity Series (O'Reilly Auto Parts)\nTrack: Phoenix Raceway\nLaps: 200\nStart Time: 7:30 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-govx-200/
+DESCRIPTION:Series: NASCAR Xfinity Series\nTrack: Phoenix Raceway\nLaps: 200\nStart Time: 7:30 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-govx-200/
 URL:https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-govx-200/
 END:VEVENT
 BEGIN:VEVENT
 UID:70a35dcf51628a78@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260308T193000Z
 DTEND:20260308T233000Z
 SUMMARY:Straight Talk Wireless 500 (NASCAR Cup Series)
@@ -156,18 +156,18 @@ DESCRIPTION:Series: NASCAR Cup Series\nTrack: Phoenix Raceway\nLaps: 312\nStart 
 URL:https://www.nascar.com/live-results/nascar-cup-series/2026-straight-talk-wireless-500/
 END:VEVENT
 BEGIN:VEVENT
-UID:3b4d7209891f1081@nascar-scraper
-DTSTAMP:20260119T175136Z
+UID:a2d13bbd50ffdfa7@nascar-scraper
+DTSTAMP:20260119T181321Z
 DTSTART:20260314T213000Z
 DTEND:20260315T013000Z
-SUMMARY:The LiUNA! (NASCAR Xfinity Series (O'Reilly Auto Parts))
+SUMMARY:The LiUNA! (NASCAR Xfinity Series)
 LOCATION:Las Vegas Motor Speedway\, NV
-DESCRIPTION:Series: NASCAR Xfinity Series (O'Reilly Auto Parts)\nTrack: Las Vegas Motor Speedway\nLaps: 200\nStart Time: 5:30 PM (local)\nTV: CW\nRadio: PRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-the-liuna/
+DESCRIPTION:Series: NASCAR Xfinity Series\nTrack: Las Vegas Motor Speedway\nLaps: 200\nStart Time: 5:30 PM (local)\nTV: CW\nRadio: PRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-the-liuna/
 URL:https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-the-liuna/
 END:VEVENT
 BEGIN:VEVENT
 UID:0a13bd5e20b0ac1e@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260315T200000Z
 DTEND:20260316T000000Z
 SUMMARY:Pennzoil 400 presented by Jiffy Lube (NASCAR Cup Series)
@@ -177,7 +177,7 @@ URL:https://www.nascar.com/live-results/nascar-cup-series/2026-pennzoil-400/
 END:VEVENT
 BEGIN:VEVENT
 UID:98f8050dd82649d0@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260320T040000Z
 DTEND:20260320T080000Z
 SUMMARY:NASCAR Craftsman Truck Series Race at Darlington (NASCAR Craftsman Truck Series)
@@ -186,28 +186,28 @@ DESCRIPTION:Series: NASCAR Craftsman Truck Series\nTrack: Darlington Raceway\nLa
 URL:https://www.nascar.com/live-results/2026-sober-or-slammer-200/
 END:VEVENT
 BEGIN:VEVENT
-UID:94fd0fa2fa77bd7d@nascar-scraper
-DTSTAMP:20260119T175136Z
+UID:b55de0310dfe3240@nascar-scraper
+DTSTAMP:20260119T181321Z
 DTSTART:20260321T213000Z
 DTEND:20260322T013000Z
-SUMMARY:Sport Clips Haircuts VFW Help a Hero 200 (NASCAR Xfinity Series (O'Reilly Auto Parts))
+SUMMARY:Sport Clips Haircuts VFW Help a Hero 200 (NASCAR Xfinity Series)
 LOCATION:Darlington Raceway\, SC
-DESCRIPTION:Series: NASCAR Xfinity Series (O'Reilly Auto Parts)\nTrack: Darlington Raceway\nLaps: 147\nStart Time: 5:30 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-sport-clips-haircuts-vfw-help-a-hero-200/
+DESCRIPTION:Series: NASCAR Xfinity Series\nTrack: Darlington Raceway\nLaps: 147\nStart Time: 5:30 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-sport-clips-haircuts-vfw-help-a-hero-200/
 URL:https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-sport-clips-haircuts-vfw-help-a-hero-200/
 END:VEVENT
 BEGIN:VEVENT
-UID:5774dfd1d40e9271@nascar-scraper
-DTSTAMP:20260119T175136Z
+UID:519de7d0f7a22ff1@nascar-scraper
+DTSTAMP:20260119T181321Z
 DTSTART:20260328T193000Z
 DTEND:20260328T233000Z
-SUMMARY:NFPA 250 (NASCAR Xfinity Series (O'Reilly Auto Parts))
+SUMMARY:NFPA 250 (NASCAR Xfinity Series)
 LOCATION:Martinsville Speedway\, VA
-DESCRIPTION:Series: NASCAR Xfinity Series (O'Reilly Auto Parts)\nTrack: Martinsville Speedway\nLaps: 250\nStart Time: 3:30 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/nfpa-250/
+DESCRIPTION:Series: NASCAR Xfinity Series\nTrack: Martinsville Speedway\nLaps: 250\nStart Time: 3:30 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/nfpa-250/
 URL:https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/nfpa-250/
 END:VEVENT
 BEGIN:VEVENT
 UID:fd2bb63465dc28ee@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260329T193000Z
 DTEND:20260329T233000Z
 SUMMARY:Cook Out 400 (NASCAR Cup Series)
@@ -217,7 +217,7 @@ URL:https://www.nascar.com/live-results/nascar-cup-series/2026-cook-out-400-mart
 END:VEVENT
 BEGIN:VEVENT
 UID:852793462869834a@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260329T190000Z
 DTEND:20260329T230000Z
 SUMMARY:Goodyear 400 (NASCAR Cup Series)
@@ -227,7 +227,7 @@ URL:https://www.nascar.com/live-results/nascar-cup-series/2026-goodyear-400/
 END:VEVENT
 BEGIN:VEVENT
 UID:2f0df978d08d493e@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260403T040000Z
 DTEND:20260403T080000Z
 SUMMARY:Black's Tire 200 (NASCAR Craftsman Truck Series)
@@ -236,18 +236,18 @@ DESCRIPTION:Series: NASCAR Craftsman Truck Series\nTrack: Rockingham Speedway\nL
 URL:https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-blacks-tire-200/
 END:VEVENT
 BEGIN:VEVENT
-UID:1c3f743729e70a86@nascar-scraper
-DTSTAMP:20260119T175136Z
+UID:561dd27ff9762a34@nascar-scraper
+DTSTAMP:20260119T181321Z
 DTSTART:20260404T183000Z
 DTEND:20260404T223000Z
-SUMMARY:North Carolina Education Lottery 250 Presented by Black's Tire (NASCAR Xfinity Series (O'Reilly Auto Parts))
+SUMMARY:North Carolina Education Lottery 250 Presented by Black's Tire (NASCAR Xfinity Series)
 LOCATION:Rockingham Speedway\, NC
-DESCRIPTION:Series: NASCAR Xfinity Series (O'Reilly Auto Parts)\nTrack: Rockingham Speedway\nLaps: 250\nStart Time: 2:30 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nc-education-lottery-250-presented-by-blacks-tire/
+DESCRIPTION:Series: NASCAR Xfinity Series\nTrack: Rockingham Speedway\nLaps: 250\nStart Time: 2:30 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nc-education-lottery-250-presented-by-blacks-tire/
 URL:https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nc-education-lottery-250-presented-by-blacks-tire/
 END:VEVENT
 BEGIN:VEVENT
 UID:5e6457cc206a689f@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260410T040000Z
 DTEND:20260410T080000Z
 SUMMARY:Tennessee Army National Guard 250 (NASCAR Craftsman Truck Series)
@@ -256,18 +256,18 @@ DESCRIPTION:Series: NASCAR Craftsman Truck Series\nTrack: Bristol Motor Speedway
 URL:https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-tennessee-army-national-guard-250/
 END:VEVENT
 BEGIN:VEVENT
-UID:8a5db1d91050147c@nascar-scraper
-DTSTAMP:20260119T175136Z
+UID:8504bac68c45b53f@nascar-scraper
+DTSTAMP:20260119T181321Z
 DTSTART:20260411T233000Z
 DTEND:20260412T033000Z
-SUMMARY:NASCAR O'Reilly Auto Parts Series Race at Bristol (NASCAR Xfinity Series (O'Reilly Auto Parts))
+SUMMARY:NASCAR O'Reilly Auto Parts Series Race at Bristol (NASCAR Xfinity Series)
 LOCATION:Bristol Motor Speedway\, TN
-DESCRIPTION:Series: NASCAR Xfinity Series (O'Reilly Auto Parts)\nTrack: Bristol Motor Speedway\nLaps: 300\nStart Time: 7:30 PM (local)\nTV: CW\nRadio: PRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-bristol/
+DESCRIPTION:Series: NASCAR Xfinity Series\nTrack: Bristol Motor Speedway\nLaps: 300\nStart Time: 7:30 PM (local)\nTV: CW\nRadio: PRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-bristol/
 URL:https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-bristol/
 END:VEVENT
 BEGIN:VEVENT
 UID:5b26523115704f90@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260412T190000Z
 DTEND:20260412T230000Z
 SUMMARY:Food City 500 (NASCAR Cup Series)
@@ -276,18 +276,18 @@ DESCRIPTION:Series: NASCAR Cup Series\nTrack: Bristol Motor Speedway\nLaps: 500\
 URL:https://www.nascar.com/live-results/nascar-cup-series/2026-food-city-500/
 END:VEVENT
 BEGIN:VEVENT
-UID:26bc4e805dd8e0fd@nascar-scraper
-DTSTAMP:20260119T175136Z
+UID:57a984e6e3f9da75@nascar-scraper
+DTSTAMP:20260119T181321Z
 DTSTART:20260418T230000Z
 DTEND:20260419T030000Z
-SUMMARY:Kansas Lottery 300 (NASCAR Xfinity Series (O'Reilly Auto Parts))
+SUMMARY:Kansas Lottery 300 (NASCAR Xfinity Series)
 LOCATION:Kansas Speedway\, KS
-DESCRIPTION:Series: NASCAR Xfinity Series (O'Reilly Auto Parts)\nTrack: Kansas Speedway\nLaps: 200\nStart Time: 7:00 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-kansas-lottery-300/
+DESCRIPTION:Series: NASCAR Xfinity Series\nTrack: Kansas Speedway\nLaps: 200\nStart Time: 7:00 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-kansas-lottery-300/
 URL:https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-kansas-lottery-300/
 END:VEVENT
 BEGIN:VEVENT
 UID:6721cd9dd333ec4f@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260419T180000Z
 DTEND:20260419T220000Z
 SUMMARY:AdventHealth 400 (NASCAR Cup Series)
@@ -296,18 +296,18 @@ DESCRIPTION:Series: NASCAR Cup Series\nTrack: Kansas Speedway\nLaps: 267\nStart 
 URL:https://www.nascar.com/live-results/nascar-cup-series/2026-adventhealth-400/
 END:VEVENT
 BEGIN:VEVENT
-UID:2d7207e203fc0ec5@nascar-scraper
-DTSTAMP:20260119T175136Z
+UID:3065b33eba943712@nascar-scraper
+DTSTAMP:20260119T181321Z
 DTSTART:20260425T200000Z
 DTEND:20260426T000000Z
-SUMMARY:NASCAR O'Reilly Auto Parts Series Race at Talladega (NASCAR Xfinity Series (O'Reilly Auto Parts))
+SUMMARY:NASCAR O'Reilly Auto Parts Series Race at Talladega (NASCAR Xfinity Series)
 LOCATION:Talladega Superspeedway\, AL
-DESCRIPTION:Series: NASCAR Xfinity Series (O'Reilly Auto Parts)\nTrack: Talladega Superspeedway\nLaps: 113\nStart Time: 4:00 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-talladega/
+DESCRIPTION:Series: NASCAR Xfinity Series\nTrack: Talladega Superspeedway\nLaps: 113\nStart Time: 4:00 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-talladega/
 URL:https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-talladega/
 END:VEVENT
 BEGIN:VEVENT
 UID:96a4627e2646b809@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260426T190000Z
 DTEND:20260426T230000Z
 SUMMARY:Jack Link's 500 (NASCAR Cup Series)
@@ -317,7 +317,7 @@ URL:https://www.nascar.com/live-results/nascar-cup-series/2026-jack-links-500/
 END:VEVENT
 BEGIN:VEVENT
 UID:9a17476f81cc3b04@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260501T040000Z
 DTEND:20260501T080000Z
 SUMMARY:SpeedyCash.com 250 (NASCAR Craftsman Truck Series)
@@ -326,18 +326,18 @@ DESCRIPTION:Series: NASCAR Craftsman Truck Series\nTrack: Texas Motor Speedway\n
 URL:https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-speedycashcom-250/
 END:VEVENT
 BEGIN:VEVENT
-UID:17041dc2a4bd434a@nascar-scraper
-DTSTAMP:20260119T175136Z
+UID:d3c1adc6f0d7a279@nascar-scraper
+DTSTAMP:20260119T181321Z
 DTSTART:20260502T193000Z
 DTEND:20260502T233000Z
-SUMMARY:Andy's Frozen Custard 340 (NASCAR Xfinity Series (O'Reilly Auto Parts))
+SUMMARY:Andy's Frozen Custard 340 (NASCAR Xfinity Series)
 LOCATION:Texas Motor Speedway\, TX
-DESCRIPTION:Series: NASCAR Xfinity Series (O'Reilly Auto Parts)\nTrack: Texas Motor Speedway\nLaps: 200\nStart Time: 3:30 PM (local)\nTV: CW\nRadio: PRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-andys-frozen-custard-340/
+DESCRIPTION:Series: NASCAR Xfinity Series\nTrack: Texas Motor Speedway\nLaps: 200\nStart Time: 3:30 PM (local)\nTV: CW\nRadio: PRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-andys-frozen-custard-340/
 URL:https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-andys-frozen-custard-340/
 END:VEVENT
 BEGIN:VEVENT
 UID:5ae2b5073e0a20fe@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260508T040000Z
 DTEND:20260508T080000Z
 SUMMARY:NASCAR Craftsman Truck Series Race at Watkins Glen (NASCAR Craftsman Truck Series)
@@ -346,18 +346,18 @@ DESCRIPTION:Series: NASCAR Craftsman Truck Series\nTrack: Watkins Glen Internati
 URL:https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-mission-176-at-the-glen/
 END:VEVENT
 BEGIN:VEVENT
-UID:637c782cfecac125@nascar-scraper
-DTSTAMP:20260119T175136Z
+UID:409f81943ef99fa3@nascar-scraper
+DTSTAMP:20260119T181321Z
 DTSTART:20260509T200000Z
 DTEND:20260510T000000Z
-SUMMARY:Mission 200 at The Glen (NASCAR Xfinity Series (O'Reilly Auto Parts))
+SUMMARY:Mission 200 at The Glen (NASCAR Xfinity Series)
 LOCATION:Watkins Glen International\, NY
-DESCRIPTION:Series: NASCAR Xfinity Series (O'Reilly Auto Parts)\nTrack: Watkins Glen International\nLaps: 82\nStart Time: 4:00 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-mission-200-at-the-glen/
+DESCRIPTION:Series: NASCAR Xfinity Series\nTrack: Watkins Glen International\nLaps: 82\nStart Time: 4:00 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-mission-200-at-the-glen/
 URL:https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-mission-200-at-the-glen/
 END:VEVENT
 BEGIN:VEVENT
 UID:4eb80e495f9d0ed6@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260510T190000Z
 DTEND:20260510T230000Z
 SUMMARY:Go Bowling at The Glen (NASCAR Cup Series)
@@ -367,7 +367,7 @@ URL:https://www.nascar.com/live-results/nascar-cup-series/2026-go-bowling-at-the
 END:VEVENT
 BEGIN:VEVENT
 UID:fedd2fec413976d4@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260515T040000Z
 DTEND:20260515T080000Z
 SUMMARY:ECOSAVE 200 (NASCAR Craftsman Truck Series)
@@ -376,18 +376,18 @@ DESCRIPTION:Series: NASCAR Craftsman Truck Series\nTrack: Dover Motor Speedway\n
 URL:https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-ecosave-200/
 END:VEVENT
 BEGIN:VEVENT
-UID:f37aa3a3881bb216@nascar-scraper
-DTSTAMP:20260119T175136Z
+UID:e870df75dd50d746@nascar-scraper
+DTSTAMP:20260119T181321Z
 DTSTART:20260516T200000Z
 DTEND:20260517T000000Z
-SUMMARY:BetRivers 200 (NASCAR Xfinity Series (O'Reilly Auto Parts))
+SUMMARY:BetRivers 200 (NASCAR Xfinity Series)
 LOCATION:Dover Motor Speedway\, DE
-DESCRIPTION:Series: NASCAR Xfinity Series (O'Reilly Auto Parts)\nTrack: Dover Motor Speedway\nLaps: 200\nStart Time: 4:00 PM (local)\nTV: CW\nRadio: PRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-betrivers-200/
+DESCRIPTION:Series: NASCAR Xfinity Series\nTrack: Dover Motor Speedway\nLaps: 200\nStart Time: 4:00 PM (local)\nTV: CW\nRadio: PRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-betrivers-200/
 URL:https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-betrivers-200/
 END:VEVENT
 BEGIN:VEVENT
 UID:65954cf61eafc419@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260517T190000Z
 DTEND:20260517T230000Z
 SUMMARY:NASCAR All-Star Race (NASCAR Cup Series)
@@ -397,7 +397,7 @@ URL:https://www.nascar.com/live-results/nascar-cup-series/2026-all-star-race/
 END:VEVENT
 BEGIN:VEVENT
 UID:b2f2f3a345e0f232@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260522T040000Z
 DTEND:20260522T080000Z
 SUMMARY:North Carolina Education Lottery 200 (NASCAR Craftsman Truck Series)
@@ -406,18 +406,18 @@ DESCRIPTION:Series: NASCAR Craftsman Truck Series\nTrack: Charlotte Motor Speedw
 URL:https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-north-carolina-education-lottery-200/
 END:VEVENT
 BEGIN:VEVENT
-UID:2e1e230c4bf87ff4@nascar-scraper
-DTSTAMP:20260119T175136Z
+UID:984b2049630beaf6@nascar-scraper
+DTSTAMP:20260119T181321Z
 DTSTART:20260523T210000Z
 DTEND:20260524T010000Z
-SUMMARY:NASCAR O'Reilly Auto Parts Series Race at Charlotte (NASCAR Xfinity Series (O'Reilly Auto Parts))
+SUMMARY:NASCAR O'Reilly Auto Parts Series Race at Charlotte (NASCAR Xfinity Series)
 LOCATION:Charlotte Motor Speedway\, NC
-DESCRIPTION:Series: NASCAR Xfinity Series (O'Reilly Auto Parts)\nTrack: Charlotte Motor Speedway\nLaps: 200\nStart Time: 5:00 PM (local)\nTV: CW\nRadio: PRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-charlotte/
+DESCRIPTION:Series: NASCAR Xfinity Series\nTrack: Charlotte Motor Speedway\nLaps: 200\nStart Time: 5:00 PM (local)\nTV: CW\nRadio: PRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-charlotte/
 URL:https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-charlotte/
 END:VEVENT
 BEGIN:VEVENT
 UID:11d9da65c62ca515@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260524T220000Z
 DTEND:20260525T020000Z
 SUMMARY:Coca-Cola 600 (NASCAR Cup Series)
@@ -427,7 +427,7 @@ URL:https://www.nascar.com/live-results/nascar-cup-series/2026-coca-cola-600/
 END:VEVENT
 BEGIN:VEVENT
 UID:06433a3617d899d9@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260529T040000Z
 DTEND:20260529T080000Z
 SUMMARY:Flote 200 (NASCAR Craftsman Truck Series)
@@ -436,18 +436,18 @@ DESCRIPTION:Series: NASCAR Craftsman Truck Series\nTrack: Nashville Superspeedwa
 URL:https://www.nascar.com/live-results/nascar-craftsman-truck-series/flote-200/
 END:VEVENT
 BEGIN:VEVENT
-UID:295d0fa8563d9306@nascar-scraper
-DTSTAMP:20260119T175136Z
+UID:817be48b1b466f65@nascar-scraper
+DTSTAMP:20260119T181321Z
 DTSTART:20260530T233000Z
 DTEND:20260531T033000Z
-SUMMARY:Tennessee Lottery 250 (NASCAR Xfinity Series (O'Reilly Auto Parts))
+SUMMARY:Tennessee Lottery 250 (NASCAR Xfinity Series)
 LOCATION:Nashville Superspeedway\, TN
-DESCRIPTION:Series: NASCAR Xfinity Series (O'Reilly Auto Parts)\nTrack: Nashville Superspeedway\nLaps: 188\nStart Time: 7:30 PM (local)\nTV: CW\nRadio: PRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-tennessee-lottery-250/
+DESCRIPTION:Series: NASCAR Xfinity Series\nTrack: Nashville Superspeedway\nLaps: 188\nStart Time: 7:30 PM (local)\nTV: CW\nRadio: PRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-tennessee-lottery-250/
 URL:https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-tennessee-lottery-250/
 END:VEVENT
 BEGIN:VEVENT
 UID:dad67d1708d37033@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260531T230000Z
 DTEND:20260601T030000Z
 SUMMARY:Cracker Barrel 400 (NASCAR Cup Series)
@@ -457,7 +457,7 @@ URL:https://www.nascar.com/live-results/nascar-cup-series/2026-cracker-barrel-40
 END:VEVENT
 BEGIN:VEVENT
 UID:1c7d961c14bb2d10@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260606T040000Z
 DTEND:20260606T080000Z
 SUMMARY:NASCAR Craftsman Truck Series Race at Michigan (NASCAR Craftsman Truck Series)
@@ -467,7 +467,7 @@ URL:https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-dqs-s
 END:VEVENT
 BEGIN:VEVENT
 UID:f66fd352585f23ce@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260607T190000Z
 DTEND:20260607T230000Z
 SUMMARY:FireKeepers Casino 400 (NASCAR Cup Series)
@@ -476,18 +476,18 @@ DESCRIPTION:Series: NASCAR Cup Series\nTrack: Michigan International Speedway\nL
 URL:https://www.nascar.com/live-results/nascar-cup-series/2026-firekeepers-casino-400/
 END:VEVENT
 BEGIN:VEVENT
-UID:11e2162bb1045232@nascar-scraper
-DTSTAMP:20260119T175136Z
+UID:cfdf1fb5465e9fb7@nascar-scraper
+DTSTAMP:20260119T181321Z
 DTSTART:20260613T200000Z
 DTEND:20260614T000000Z
-SUMMARY:NASCAR O'Reilly Auto Parts Series Race at Pocono (NASCAR Xfinity Series (O'Reilly Auto Parts))
+SUMMARY:NASCAR O'Reilly Auto Parts Series Race at Pocono (NASCAR Xfinity Series)
 LOCATION:Pocono Raceway\, PA
-DESCRIPTION:Series: NASCAR Xfinity Series (O'Reilly Auto Parts)\nTrack: Pocono Raceway\nLaps: 100\nStart Time: 4:00 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-pocono/
+DESCRIPTION:Series: NASCAR Xfinity Series\nTrack: Pocono Raceway\nLaps: 100\nStart Time: 4:00 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-pocono/
 URL:https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-pocono/
 END:VEVENT
 BEGIN:VEVENT
 UID:a7d86c42bcc1cc37@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260614T190000Z
 DTEND:20260614T230000Z
 SUMMARY:NASCAR Cup Series Race at Pocono (NASCAR Cup Series)
@@ -497,7 +497,7 @@ URL:https://www.nascar.com/live-results/nascar-cup-series/2026-nascar-cup-series
 END:VEVENT
 BEGIN:VEVENT
 UID:622a1b467a09397e@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260619T040000Z
 DTEND:20260619T080000Z
 SUMMARY:NASCAR CRAFTSMAN Truck Series Race at San Diego (NASCAR Craftsman Truck Series)
@@ -506,18 +506,18 @@ DESCRIPTION:Series: NASCAR Craftsman Truck Series\nTrack: San Diego Street Cours
 URL:https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-ncts-race-at-san-diego/
 END:VEVENT
 BEGIN:VEVENT
-UID:8156b0004b00a12d@nascar-scraper
-DTSTAMP:20260119T175136Z
+UID:08773e4dbc1be912@nascar-scraper
+DTSTAMP:20260119T181321Z
 DTSTART:20260620T210000Z
 DTEND:20260621T010000Z
-SUMMARY:NASCAR O'Reilly Auto Parts Series Race at San Diego (NASCAR Xfinity Series (O'Reilly Auto Parts))
+SUMMARY:NASCAR O'Reilly Auto Parts Series Race at San Diego (NASCAR Xfinity Series)
 LOCATION:San Diego Street Course\, CA
-DESCRIPTION:Series: NASCAR Xfinity Series (O'Reilly Auto Parts)\nTrack: San Diego Street Course\nLaps: 1\nStart Time: 5:00 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-san-diego/
+DESCRIPTION:Series: NASCAR Xfinity Series\nTrack: San Diego Street Course\nLaps: 1\nStart Time: 5:00 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-san-diego/
 URL:https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-san-diego/
 END:VEVENT
 BEGIN:VEVENT
 UID:985058d488e90862@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260621T200000Z
 DTEND:20260622T000000Z
 SUMMARY:Anduril 250 (NASCAR Cup Series)
@@ -526,28 +526,28 @@ DESCRIPTION:Series: NASCAR Cup Series\nTrack: San Diego Street Course\nLaps: 1\n
 URL:https://www.nascar.com/live-results/nascar-cup-series/anduril-250/
 END:VEVENT
 BEGIN:VEVENT
-UID:a4c37529b4d579e5@nascar-scraper
-DTSTAMP:20260119T175136Z
+UID:bd3e06e83eb5b105@nascar-scraper
+DTSTAMP:20260119T181321Z
 DTSTART:20260627T213000Z
 DTEND:20260628T013000Z
-SUMMARY:NASCAR O'Reilly Auto Parts Series Race at Sonoma (NASCAR Xfinity Series (O'Reilly Auto Parts))
+SUMMARY:NASCAR O'Reilly Auto Parts Series Race at Sonoma (NASCAR Xfinity Series)
 LOCATION:Sonoma Raceway\, CA
-DESCRIPTION:Series: NASCAR Xfinity Series (O'Reilly Auto Parts)\nTrack: Sonoma Raceway\nLaps: 79\nStart Time: 5:30 PM (local)\nTV: CW\nRadio: PRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-sonoma/
+DESCRIPTION:Series: NASCAR Xfinity Series\nTrack: Sonoma Raceway\nLaps: 79\nStart Time: 5:30 PM (local)\nTV: CW\nRadio: PRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-sonoma/
 URL:https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-sonoma/
 END:VEVENT
 BEGIN:VEVENT
-UID:acdd59368728dcaf@nascar-scraper
-DTSTAMP:20260119T175136Z
+UID:98a1e51f1e6259ff@nascar-scraper
+DTSTAMP:20260119T181321Z
 DTSTART:20260704T213000Z
 DTEND:20260705T013000Z
-SUMMARY:NASCAR O'Reilly Auto Parts Series Race at Chicagoland (NASCAR Xfinity Series (O'Reilly Auto Parts))
+SUMMARY:NASCAR O'Reilly Auto Parts Series Race at Chicagoland (NASCAR Xfinity Series)
 LOCATION:Chicagoland Speedway\, IL
-DESCRIPTION:Series: NASCAR Xfinity Series (O'Reilly Auto Parts)\nTrack: Chicagoland Speedway\nLaps: 1\nStart Time: 5:30 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-chicagoland/
+DESCRIPTION:Series: NASCAR Xfinity Series\nTrack: Chicagoland Speedway\nLaps: 1\nStart Time: 5:30 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-chicagoland/
 URL:https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-chicagoland/
 END:VEVENT
 BEGIN:VEVENT
 UID:9a4dca6cdb860a14@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260705T220000Z
 DTEND:20260706T020000Z
 SUMMARY:NASCAR Cup Series Race at Chicagoland (NASCAR Cup Series)
@@ -556,18 +556,18 @@ DESCRIPTION:Series: NASCAR Cup Series\nTrack: Chicagoland Speedway\nLaps: 1\nSta
 URL:https://www.nascar.com/live-results/nascar-cup-series/2026-nascar-cup-series-at-chicagoland/
 END:VEVENT
 BEGIN:VEVENT
-UID:4b829c0592ca5de6@nascar-scraper
-DTSTAMP:20260119T175136Z
+UID:51a1dca748950106@nascar-scraper
+DTSTAMP:20260119T181321Z
 DTSTART:20260711T230000Z
 DTEND:20260712T030000Z
-SUMMARY:Focused Health 250 (NASCAR Xfinity Series (O'Reilly Auto Parts))
+SUMMARY:Focused Health 250 (NASCAR Xfinity Series)
 LOCATION:Atlanta Motor Speedway\, GA
-DESCRIPTION:Series: NASCAR Xfinity Series (O'Reilly Auto Parts)\nTrack: Atlanta Motor Speedway\nLaps: 163\nStart Time: 7:00 PM (local)\nTV: CW\nRadio: PRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-focused-health-250-echopark/
+DESCRIPTION:Series: NASCAR Xfinity Series\nTrack: Atlanta Motor Speedway\nLaps: 163\nStart Time: 7:00 PM (local)\nTV: CW\nRadio: PRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-focused-health-250-echopark/
 URL:https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-focused-health-250-echopark/
 END:VEVENT
 BEGIN:VEVENT
 UID:32bce27cb98c3adc@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260711T040000Z
 DTEND:20260711T080000Z
 SUMMARY:NASCAR Craftsman Truck Series at Lime Rock (NASCAR Craftsman Truck Series)
@@ -577,7 +577,7 @@ URL:https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-liuna
 END:VEVENT
 BEGIN:VEVENT
 UID:ec7b4922e7c7e3c8@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260712T230000Z
 DTEND:20260713T030000Z
 SUMMARY:Quaker State 400 Available at Walmart (NASCAR Cup Series)
@@ -587,7 +587,7 @@ URL:https://www.nascar.com/live-results/nascar-cup-series/2026-quaker-state-400-
 END:VEVENT
 BEGIN:VEVENT
 UID:421033c875c30b19@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260718T040000Z
 DTEND:20260718T080000Z
 SUMMARY:Window World 250 (NASCAR Craftsman Truck Series)
@@ -597,7 +597,7 @@ URL:https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-windo
 END:VEVENT
 BEGIN:VEVENT
 UID:c24543e972b444ba@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260719T230000Z
 DTEND:20260720T030000Z
 SUMMARY:Window World 450 (NASCAR Cup Series)
@@ -607,7 +607,7 @@ URL:https://www.nascar.com/live-results/nascar-cup-series/2026-window-world-450/
 END:VEVENT
 BEGIN:VEVENT
 UID:3d151883c954d2c1@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260724T040000Z
 DTEND:20260724T080000Z
 SUMMARY:NASCAR Craftsman Truck Series Race at IRP (NASCAR Craftsman Truck Series)
@@ -616,18 +616,18 @@ DESCRIPTION:Series: NASCAR Craftsman Truck Series\nTrack: Lucas Oil Indianapolis
 URL:https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-tsport-200-at-indianapolis/
 END:VEVENT
 BEGIN:VEVENT
-UID:b82478b78b1bef00@nascar-scraper
-DTSTAMP:20260119T175136Z
+UID:d85d34ddfd6c4b76@nascar-scraper
+DTSTAMP:20260119T181321Z
 DTSTART:20260725T200000Z
 DTEND:20260726T000000Z
-SUMMARY:NASCAR O'Reilly Auto Parts Series Race at Indianapolis (NASCAR Xfinity Series (O'Reilly Auto Parts))
+SUMMARY:NASCAR O'Reilly Auto Parts Series Race at Indianapolis (NASCAR Xfinity Series)
 LOCATION:Indianapolis Motor Speedway\, IN
-DESCRIPTION:Series: NASCAR Xfinity Series (O'Reilly Auto Parts)\nTrack: Indianapolis Motor Speedway\nLaps: 100\nStart Time: 4:00 PM (local)\nTV: CW\nRadio: IMS\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-indianapolis/
+DESCRIPTION:Series: NASCAR Xfinity Series\nTrack: Indianapolis Motor Speedway\nLaps: 100\nStart Time: 4:00 PM (local)\nTV: CW\nRadio: IMS\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-indianapolis/
 URL:https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-indianapolis/
 END:VEVENT
 BEGIN:VEVENT
 UID:8bf0e757e7be8c71@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260726T180000Z
 DTEND:20260726T220000Z
 SUMMARY:Brickyard 400 (NASCAR Cup Series)
@@ -637,7 +637,7 @@ URL:https://www.nascar.com/live-results/nascar-cup-series/2026-brickyard-400-pre
 END:VEVENT
 BEGIN:VEVENT
 UID:40da33fb64412ff2@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260728T193000Z
 DTEND:20260728T233000Z
 SUMMARY:Toyota / Save Mart 350 (NASCAR Cup Series)
@@ -646,18 +646,18 @@ DESCRIPTION:Series: NASCAR Cup Series\nTrack: Sonoma Raceway\nLaps: 110\nStart T
 URL:https://www.nascar.com/live-results/nascar-cup-series/2026-toyota-save-mart-350/
 END:VEVENT
 BEGIN:VEVENT
-UID:2e1854004130532d@nascar-scraper
-DTSTAMP:20260119T175136Z
+UID:8aa5fc0292ad01bc@nascar-scraper
+DTSTAMP:20260119T181321Z
 DTSTART:20260808T210000Z
 DTEND:20260809T010000Z
-SUMMARY:NASCAR O'Reilly Auto Parts Series Race at Iowa (NASCAR Xfinity Series (O'Reilly Auto Parts))
+SUMMARY:NASCAR O'Reilly Auto Parts Series Race at Iowa (NASCAR Xfinity Series)
 LOCATION:Iowa Speedway\, IA
-DESCRIPTION:Series: NASCAR Xfinity Series (O'Reilly Auto Parts)\nTrack: Iowa Speedway\nLaps: 250\nStart Time: 5:00 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-iowa/
+DESCRIPTION:Series: NASCAR Xfinity Series\nTrack: Iowa Speedway\nLaps: 250\nStart Time: 5:00 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-iowa/
 URL:https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-iowa/
 END:VEVENT
 BEGIN:VEVENT
 UID:66614b493eb18fea@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260809T193000Z
 DTEND:20260809T233000Z
 SUMMARY:Iowa Corn 350 Powered by Ethanol (NASCAR Cup Series)
@@ -667,7 +667,7 @@ URL:https://www.nascar.com/live-results/nascar-cup-series/2026-iowa-corn-350-pow
 END:VEVENT
 BEGIN:VEVENT
 UID:bfac361af3664af6@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260814T040000Z
 DTEND:20260814T080000Z
 SUMMARY:NASCAR Craftsman Truck Series Race at Richmond (NASCAR Craftsman Truck Series)
@@ -677,7 +677,7 @@ URL:https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-eero-
 END:VEVENT
 BEGIN:VEVENT
 UID:88a6a94a3be8133a@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260815T230000Z
 DTEND:20260816T030000Z
 SUMMARY:Cook Out 400 (NASCAR Cup Series)
@@ -687,7 +687,7 @@ URL:https://www.nascar.com/live-results/nascar-cup-series/2026-cook-out-400-rich
 END:VEVENT
 BEGIN:VEVENT
 UID:af124a18ea464384@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260822T040000Z
 DTEND:20260822T080000Z
 SUMMARY:Team EJP 175 (NASCAR Craftsman Truck Series)
@@ -697,7 +697,7 @@ URL:https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-team-
 END:VEVENT
 BEGIN:VEVENT
 UID:19fb51eb1bb0e4b6@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260823T190000Z
 DTEND:20260823T230000Z
 SUMMARY:NASCAR Cup Series Race at New Hampshire (NASCAR Cup Series)
@@ -706,18 +706,18 @@ DESCRIPTION:Series: NASCAR Cup Series\nTrack: New Hampshire Motor Speedway\nLaps
 URL:https://www.nascar.com/live-results/nascar-cup-series/2026-nascar-cup-series-race-at-new-hampshire/
 END:VEVENT
 BEGIN:VEVENT
-UID:22d01b23ba9c6e08@nascar-scraper
-DTSTAMP:20260119T175136Z
+UID:0c4cbb81b322f27b@nascar-scraper
+DTSTAMP:20260119T181321Z
 DTSTART:20260828T233000Z
 DTEND:20260829T033000Z
-SUMMARY:Wawa 250 Powered by Coca-Cola (NASCAR Xfinity Series (O'Reilly Auto Parts))
+SUMMARY:Wawa 250 Powered by Coca-Cola (NASCAR Xfinity Series)
 LOCATION:Daytona International Speedway\, FL
-DESCRIPTION:Series: NASCAR Xfinity Series (O'Reilly Auto Parts)\nTrack: Daytona International Speedway\nLaps: 100\nStart Time: 7:30 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-wawa-250-powered-by-coca-cola/
+DESCRIPTION:Series: NASCAR Xfinity Series\nTrack: Daytona International Speedway\nLaps: 100\nStart Time: 7:30 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-wawa-250-powered-by-coca-cola/
 URL:https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-wawa-250-powered-by-coca-cola/
 END:VEVENT
 BEGIN:VEVENT
 UID:526f378f90ddf61c@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260829T233000Z
 DTEND:20260830T033000Z
 SUMMARY:Coke Zero Sugar 400 (NASCAR Cup Series)
@@ -726,18 +726,18 @@ DESCRIPTION:Series: NASCAR Cup Series\nTrack: Daytona International Speedway\nLa
 URL:https://www.nascar.com/live-results/nascar-cup-series/2026-coke-zero-sugar-400/
 END:VEVENT
 BEGIN:VEVENT
-UID:120363aec4eb1cc2@nascar-scraper
-DTSTAMP:20260119T175136Z
+UID:459f4023338bfb04@nascar-scraper
+DTSTAMP:20260119T181321Z
 DTSTART:20260905T233000Z
 DTEND:20260906T033000Z
-SUMMARY:NASCAR O'Reilly Auto Parts Series Fall Race at Darlington (NASCAR Xfinity Series (O'Reilly Auto Parts))
+SUMMARY:NASCAR O'Reilly Auto Parts Series Fall Race at Darlington (NASCAR Xfinity Series)
 LOCATION:Darlington Raceway\, SC
-DESCRIPTION:Series: NASCAR Xfinity Series (O'Reilly Auto Parts)\nTrack: Darlington Raceway\nLaps: 1\nStart Time: 7:30 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-darlington-2/
+DESCRIPTION:Series: NASCAR Xfinity Series\nTrack: Darlington Raceway\nLaps: 1\nStart Time: 7:30 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-darlington-2/
 URL:https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-darlington-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:8f12d7e4f4305dc2@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260906T210000Z
 DTEND:20260907T010000Z
 SUMMARY:Cook Out Southern 500 (NASCAR Cup Series)
@@ -746,18 +746,18 @@ DESCRIPTION:Series: NASCAR Cup Series\nTrack: Darlington Raceway\nLaps: 367\nSta
 URL:https://www.nascar.com/live-results/nascar-cup-series/2026-southern-500/
 END:VEVENT
 BEGIN:VEVENT
-UID:638b14965604db65@nascar-scraper
-DTSTAMP:20260119T175136Z
+UID:3cd9e5583b75480e@nascar-scraper
+DTSTAMP:20260119T181321Z
 DTSTART:20260912T233000Z
 DTEND:20260913T033000Z
-SUMMARY:NASCAR O'Reilly Auto Parts Series Race at World Wide Technology Raceway (NASCAR Xfinity Series (O'Reilly Auto Parts))
+SUMMARY:NASCAR O'Reilly Auto Parts Series Race at World Wide Technology Raceway (NASCAR Xfinity Series)
 LOCATION:World Wide Technology Raceway\, IL
-DESCRIPTION:Series: NASCAR Xfinity Series (O'Reilly Auto Parts)\nTrack: World Wide Technology Raceway\nLaps: 160\nStart Time: 7:30 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-wwtr/
+DESCRIPTION:Series: NASCAR Xfinity Series\nTrack: World Wide Technology Raceway\nLaps: 160\nStart Time: 7:30 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-wwtr/
 URL:https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-wwtr/
 END:VEVENT
 BEGIN:VEVENT
 UID:bd362641cb370c65@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260913T190000Z
 DTEND:20260913T230000Z
 SUMMARY:Enjoy Illinois 300 (NASCAR Cup Series)
@@ -767,7 +767,7 @@ URL:https://www.nascar.com/live-results/nascar-cup-series/2026-enjoy-illinois-30
 END:VEVENT
 BEGIN:VEVENT
 UID:b5afa5585aafc621@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260917T040000Z
 DTEND:20260917T080000Z
 SUMMARY:UNOH 250 Presented by Ohio Logistics (NASCAR Craftsman Truck Series)
@@ -776,18 +776,18 @@ DESCRIPTION:Series: NASCAR Craftsman Truck Series\nTrack: Bristol Motor Speedway
 URL:https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-unoh-250/
 END:VEVENT
 BEGIN:VEVENT
-UID:85718ada1c89a448@nascar-scraper
-DTSTAMP:20260119T175136Z
+UID:0fbb5468db9369e5@nascar-scraper
+DTSTAMP:20260119T181321Z
 DTSTART:20260918T233000Z
 DTEND:20260919T033000Z
-SUMMARY:Food City 300 (NASCAR Xfinity Series (O'Reilly Auto Parts))
+SUMMARY:Food City 300 (NASCAR Xfinity Series)
 LOCATION:Bristol Motor Speedway\, TN
-DESCRIPTION:Series: NASCAR Xfinity Series (O'Reilly Auto Parts)\nTrack: Bristol Motor Speedway\nLaps: 300\nStart Time: 7:30 PM (local)\nTV: CW\nRadio: PRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-food-city-300/
+DESCRIPTION:Series: NASCAR Xfinity Series\nTrack: Bristol Motor Speedway\nLaps: 300\nStart Time: 7:30 PM (local)\nTV: CW\nRadio: PRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-food-city-300/
 URL:https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-food-city-300/
 END:VEVENT
 BEGIN:VEVENT
 UID:96601b1bc9fab6f0@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260919T233000Z
 DTEND:20260920T033000Z
 SUMMARY:Bass Pro Shops Night Race (NASCAR Cup Series)
@@ -797,7 +797,7 @@ URL:https://www.nascar.com/live-results/nascar-cup-series/2026-bass-pro-shops-ni
 END:VEVENT
 BEGIN:VEVENT
 UID:12e7e4801975a5ca@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260926T040000Z
 DTEND:20260926T080000Z
 SUMMARY:NASCAR CRAFTSMAN Truck Series Playoff Race at Kansas (NASCAR Craftsman Truck Series)
@@ -807,7 +807,7 @@ URL:https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-ncts-
 END:VEVENT
 BEGIN:VEVENT
 UID:046734bec778079c@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20260927T190000Z
 DTEND:20260927T230000Z
 SUMMARY:Hollywood Casino 400 (NASCAR Cup Series)
@@ -816,18 +816,18 @@ DESCRIPTION:Series: NASCAR Cup Series\nTrack: Kansas Speedway\nLaps: 267\nStart 
 URL:https://www.nascar.com/live-results/nascar-cup-series/2026-hollywood-casino-400/
 END:VEVENT
 BEGIN:VEVENT
-UID:ed5c3c5376728c43@nascar-scraper
-DTSTAMP:20260119T175136Z
+UID:502ed7028ef85009@nascar-scraper
+DTSTAMP:20260119T181321Z
 DTSTART:20261003T233000Z
 DTEND:20261004T033000Z
-SUMMARY:Focused Health 302 (NASCAR Xfinity Series (O'Reilly Auto Parts))
+SUMMARY:Focused Health 302 (NASCAR Xfinity Series)
 LOCATION:Las Vegas Motor Speedway\, NV
-DESCRIPTION:Series: NASCAR Xfinity Series (O'Reilly Auto Parts)\nTrack: Las Vegas Motor Speedway\nLaps: 201\nStart Time: 7:30 PM (local)\nTV: CW\nRadio: PRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-focused-health-302/
+DESCRIPTION:Series: NASCAR Xfinity Series\nTrack: Las Vegas Motor Speedway\nLaps: 201\nStart Time: 7:30 PM (local)\nTV: CW\nRadio: PRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-focused-health-302/
 URL:https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-focused-health-302/
 END:VEVENT
 BEGIN:VEVENT
 UID:70894e7b2b48cffe@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20261004T213000Z
 DTEND:20261005T013000Z
 SUMMARY:South Point 400 (NASCAR Cup Series)
@@ -837,7 +837,7 @@ URL:https://www.nascar.com/live-results/nascar-cup-series/2026-south-point-400/
 END:VEVENT
 BEGIN:VEVENT
 UID:21213b75d03fa539@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20261009T040000Z
 DTEND:20261009T080000Z
 SUMMARY:NASCAR CRAFTSMAN Truck Series Playoff Race at Charlotte ROVAL (NASCAR Craftsman Truck Series)
@@ -846,18 +846,18 @@ DESCRIPTION:Series: NASCAR Craftsman Truck Series\nTrack: Charlotte Motor Speedw
 URL:https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-ncts-playoff-race-at-charlotte-roval/
 END:VEVENT
 BEGIN:VEVENT
-UID:cba679017d6d73a2@nascar-scraper
-DTSTAMP:20260119T175136Z
+UID:3985a1f410244672@nascar-scraper
+DTSTAMP:20260119T181321Z
 DTSTART:20261010T200000Z
 DTEND:20261011T000000Z
-SUMMARY:Blue Cross NC 250 (NASCAR Xfinity Series (O'Reilly Auto Parts))
+SUMMARY:Blue Cross NC 250 (NASCAR Xfinity Series)
 LOCATION:Charlotte Motor Speedway Road Course\, NC
-DESCRIPTION:Series: NASCAR Xfinity Series (O'Reilly Auto Parts)\nTrack: Charlotte Motor Speedway Road Course\nLaps: 1\nStart Time: 4:00 PM (local)\nTV: CW\nRadio: PRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-blue-cross-nc-250/
+DESCRIPTION:Series: NASCAR Xfinity Series\nTrack: Charlotte Motor Speedway Road Course\nLaps: 1\nStart Time: 4:00 PM (local)\nTV: CW\nRadio: PRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-blue-cross-nc-250/
 URL:https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-blue-cross-nc-250/
 END:VEVENT
 BEGIN:VEVENT
 UID:da4e869f9edc1b49@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20261011T190000Z
 DTEND:20261011T230000Z
 SUMMARY:Bank of America ROVAL 400 (NASCAR Cup Series)
@@ -866,18 +866,18 @@ DESCRIPTION:Series: NASCAR Cup Series\nTrack: Charlotte Motor Speedway Road Cour
 URL:https://www.nascar.com/live-results/nascar-cup-series/2026-bank-of-america-roval-400/
 END:VEVENT
 BEGIN:VEVENT
-UID:74a8e20880c16fed@nascar-scraper
-DTSTAMP:20260119T175136Z
+UID:2013a275870878e1@nascar-scraper
+DTSTAMP:20260119T181321Z
 DTSTART:20261017T233000Z
 DTEND:20261018T033000Z
-SUMMARY:NASCAR O'Reilly Auto Parts Series Playoff Race at Phoenix (NASCAR Xfinity Series (O'Reilly Auto Parts))
+SUMMARY:NASCAR O'Reilly Auto Parts Series Playoff Race at Phoenix (NASCAR Xfinity Series)
 LOCATION:Phoenix Raceway\, AZ
-DESCRIPTION:Series: NASCAR Xfinity Series (O'Reilly Auto Parts)\nTrack: Phoenix Raceway\nLaps: 200\nStart Time: 7:30 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-phoenix-2/
+DESCRIPTION:Series: NASCAR Xfinity Series\nTrack: Phoenix Raceway\nLaps: 200\nStart Time: 7:30 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-phoenix-2/
 URL:https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-phoenix-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:66cd11cef6463ea7@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20261017T040000Z
 DTEND:20261017T080000Z
 SUMMARY:NASCAR CRAFTSMAN Truck Series Playoff Race at Phoenix (NASCAR Craftsman Truck Series)
@@ -887,7 +887,7 @@ URL:https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-ncts-
 END:VEVENT
 BEGIN:VEVENT
 UID:e341f4996782fcfe@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20261018T190000Z
 DTEND:20261018T230000Z
 SUMMARY:Freeway Insurance 500 (NASCAR Cup Series)
@@ -897,7 +897,7 @@ URL:https://www.nascar.com/live-results/nascar-cup-series/2026-freeway-insurance
 END:VEVENT
 BEGIN:VEVENT
 UID:fb70cd3d0cd2f630@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20261023T040000Z
 DTEND:20261023T080000Z
 SUMMARY:NASCAR CRAFTSMAN Truck Series Playoff Race at Talladega (NASCAR Craftsman Truck Series)
@@ -906,18 +906,18 @@ DESCRIPTION:Series: NASCAR Craftsman Truck Series\nTrack: Talladega Superspeedwa
 URL:https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-ncts-playoff-race-at-talladega/
 END:VEVENT
 BEGIN:VEVENT
-UID:88e9858d16e093d2@nascar-scraper
-DTSTAMP:20260119T175136Z
+UID:c030cdf33ad931ea@nascar-scraper
+DTSTAMP:20260119T181321Z
 DTSTART:20261024T193000Z
 DTEND:20261024T233000Z
-SUMMARY:The Progress Group 250 (NASCAR Xfinity Series (O'Reilly Auto Parts))
+SUMMARY:The Progress Group 250 (NASCAR Xfinity Series)
 LOCATION:Talladega Superspeedway\, AL
-DESCRIPTION:Series: NASCAR Xfinity Series (O'Reilly Auto Parts)\nTrack: Talladega Superspeedway\nLaps: 94\nStart Time: 3:30 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/the-progress-group-250/
+DESCRIPTION:Series: NASCAR Xfinity Series\nTrack: Talladega Superspeedway\nLaps: 94\nStart Time: 3:30 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/the-progress-group-250/
 URL:https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/the-progress-group-250/
 END:VEVENT
 BEGIN:VEVENT
 UID:00cc531a849e9883@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20261025T180000Z
 DTEND:20261025T220000Z
 SUMMARY:Yellawood 500 (NASCAR Cup Series)
@@ -927,7 +927,7 @@ URL:https://www.nascar.com/live-results/nascar-cup-series/2026-yellawood-500/
 END:VEVENT
 BEGIN:VEVENT
 UID:02eeade791889454@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20261030T040000Z
 DTEND:20261030T080000Z
 SUMMARY:NASCAR CRAFTSMAN Truck Series Playoff Race at Martinsville (NASCAR Craftsman Truck Series)
@@ -936,18 +936,18 @@ DESCRIPTION:Series: NASCAR Craftsman Truck Series\nTrack: Martinsville Speedway\
 URL:https://www.nascar.com/live-results/nascar-craftsman-truck-race/2026-ncts-playoff-race-at-martinsville/
 END:VEVENT
 BEGIN:VEVENT
-UID:d3dcb9da7d67f3c8@nascar-scraper
-DTSTAMP:20260119T175136Z
+UID:d6590b4b9d17bb5d@nascar-scraper
+DTSTAMP:20260119T181321Z
 DTSTART:20261031T200000Z
 DTEND:20261101T000000Z
-SUMMARY:NASCAR O'Reilly Auto Parts Series Playoff Race at Martinsville (NASCAR Xfinity Series (O'Reilly Auto Parts))
+SUMMARY:NASCAR O'Reilly Auto Parts Series Playoff Race at Martinsville (NASCAR Xfinity Series)
 LOCATION:Martinsville Speedway\, VA
-DESCRIPTION:Series: NASCAR Xfinity Series (O'Reilly Auto Parts)\nTrack: Martinsville Speedway\nLaps: 250\nStart Time: 4:00 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-martinsville-2/
+DESCRIPTION:Series: NASCAR Xfinity Series\nTrack: Martinsville Speedway\nLaps: 250\nStart Time: 4:00 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-martinsville-2/
 URL:https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-martinsville-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:49ce03247fa2fe2e@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20261101T190000Z
 DTEND:20261101T230000Z
 SUMMARY:Xfinity 500 (NASCAR Cup Series)
@@ -957,7 +957,7 @@ URL:https://www.nascar.com/live-results/nascar-cup-series/2026-xfinity-500/
 END:VEVENT
 BEGIN:VEVENT
 UID:538c1f260f92b7bc@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20261106T050000Z
 DTEND:20261106T090000Z
 SUMMARY:NASCAR CRAFTSMAN Truck Series Championship Race (NASCAR Craftsman Truck Series)
@@ -966,18 +966,18 @@ DESCRIPTION:Series: NASCAR Craftsman Truck Series\nTrack: Homestead-Miami Speedw
 URL:https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-ncts-championship-race/
 END:VEVENT
 BEGIN:VEVENT
-UID:6e03c69b7436342f@nascar-scraper
-DTSTAMP:20260119T175136Z
+UID:dbbeeea1569380be@nascar-scraper
+DTSTAMP:20260119T181321Z
 DTSTART:20261107T220000Z
 DTEND:20261108T020000Z
-SUMMARY:NASCAR O'Reilly Auto Parts Series Championship Race (NASCAR Xfinity Series (O'Reilly Auto Parts))
+SUMMARY:NASCAR O'Reilly Auto Parts Series Championship Race (NASCAR Xfinity Series)
 LOCATION:Homestead-Miami Speedway\, FL
-DESCRIPTION:Series: NASCAR Xfinity Series (O'Reilly Auto Parts)\nTrack: Homestead-Miami Speedway\nLaps: 200\nStart Time: 5:00 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-championship-race/
+DESCRIPTION:Series: NASCAR Xfinity Series\nTrack: Homestead-Miami Speedway\nLaps: 200\nStart Time: 5:00 PM (local)\nTV: CW\nRadio: MRN\nStreaming: SiriusXM\n\nMore info: https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-championship-race/
 URL:https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-championship-race/
 END:VEVENT
 BEGIN:VEVENT
 UID:d2da0dcbb19b55f7@nascar-scraper
-DTSTAMP:20260119T175136Z
+DTSTAMP:20260119T181321Z
 DTSTART:20261108T200000Z
 DTEND:20261109T000000Z
 SUMMARY:NASCAR Cup Series Championship Race (NASCAR Cup Series)
