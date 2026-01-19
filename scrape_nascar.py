@@ -49,8 +49,14 @@ def extract_race_info(race: dict) -> dict:
         "date": clean_string(race.get("Race_Date")),
         "date_plain": clean_string(race.get("Race_Date_Plain")),
         "start_time": clean_string(race.get("Race_Start")),
+        "scheduled_laps": race.get("Scheduled_Laps"),
+        "actual_laps": race.get("Actual_Laps"),
+        "qualifying_date": clean_string(race.get("Qualifying_Date")),
+        "playoff_round": clean_string(race.get("Playoff_Round")),
         "tv_network": clean_string(race.get("Race_TV")),
         "radio": clean_string(race.get("Race_Radio")),
+        "streaming": clean_string(race.get("Race_Live_Stream")),
+        "in_car_camera": clean_string(race.get("Race_In_Car")),
         "tickets_url": clean_string(race.get("Race_Tickets")),
         "race_url": clean_string(race.get("Race_URL")),
         "previous_winner": clean_string(race.get("Previous_Winner_Name")),
@@ -207,10 +213,12 @@ async def main():
     # Save a human-readable CSV
     csv_file = "nascar_schedules_2026.csv"
     with open(csv_file, "w", encoding="utf-8") as f:
-        f.write("Series,Date,Race Name,Track,State,Start Time,TV,Previous Winner\n")
+        f.write("Series,Date,Race Name,Track,State,Start Time,Laps,TV,Streaming,Previous Winner\n")
         for race in all_races_flat:
             # Escape commas and quotes in fields for proper CSV
             def escape_csv(val):
+                if val is None:
+                    return ""
                 val = str(val).replace('"', '""')
                 if ',' in val or '"' in val or '\n' in val:
                     return f'"{val}"'
@@ -223,7 +231,9 @@ async def main():
                 escape_csv(race.get("track_name", "")),
                 escape_csv(race.get("state", "")),
                 escape_csv(race.get("start_time", "")),
+                escape_csv(race.get("scheduled_laps")),
                 escape_csv(race.get("tv_network", "")),
+                escape_csv(race.get("streaming", "")),
                 escape_csv(race.get("previous_winner", "")),
             ]
             f.write(",".join(row) + "\n")
