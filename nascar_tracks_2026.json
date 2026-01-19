@@ -1,0 +1,303 @@
+{
+  "scraped_at": "2026-01-19T11:49:26.606345",
+  "total_tracks": 33,
+  "tracks": [
+    {
+      "track_id": 111,
+      "track_name": "Atlanta Motor Speedway",
+      "alt_track_name": "EchoPark Speedway",
+      "state": "GA",
+      "track_page_url": "http://www.atlantamotorspeedway.com/",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2025/06/04/echopark-logo350x265.png",
+      "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2023/03/19/1474656134-scaled.jpg"
+    },
+    {
+      "track_id": 159,
+      "track_name": "Bowman Gray Stadium",
+      "alt_track_name": "Busch Light Clash",
+      "state": "NC",
+      "track_page_url": "https://www.nascarclash.com/",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2025/01/02/NASCAR_CLASH_onDARKApp.png",
+      "track_background_image_url": ""
+    },
+    {
+      "track_id": 14,
+      "track_name": "Bristol Motor Speedway",
+      "alt_track_name": "",
+      "state": "TN",
+      "track_page_url": "http://www.bristolmotorspeedway.com/",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2021/03/23/61ee2085de545314e374b7248e62dcec-350x290.jpg",
+      "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2022/09/18/GettyImages-1424741727.jpg"
+    },
+    {
+      "track_id": 162,
+      "track_name": "Charlotte Motor Speedway",
+      "alt_track_name": "",
+      "state": "NC",
+      "track_page_url": "http://www.charlottemotorspeedway.com/",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2024/06/20/Charlotte-Motor-Speedway.png",
+      "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2023/05/08/1399983450-scaled.jpg"
+    },
+    {
+      "track_id": 210,
+      "track_name": "Charlotte Motor Speedway Road Course",
+      "alt_track_name": "",
+      "state": "NC",
+      "track_page_url": "http://www.charlottemotorspeedway.com/",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2021/10/05/Charlotte-Logo-350x130.png",
+      "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2022/10/09/GettyImages-1432024121-scaled.jpg"
+    },
+    {
+      "track_id": 39,
+      "track_name": "Chicagoland Speedway",
+      "alt_track_name": "Chicagoland Speedway",
+      "state": "IL",
+      "track_page_url": "https://www.chicagolandspeedway.com/",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2026/01/13/CLS_White_Wordmark_501x121-350x121.png",
+      "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2021/11/30/homepagehero.jpg"
+    },
+    {
+      "track_id": 214,
+      "track_name": "Circuit of The Americas",
+      "alt_track_name": "",
+      "state": "TX",
+      "track_page_url": "https://circuitoftheamericas.com/",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2025/02/25/2025_NASCAR_Cota.png",
+      "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2023/03/24/2023-mar24-reddick-cota-MAIN-1.jpg"
+    },
+    {
+      "track_id": 4,
+      "track_name": "Darlington Raceway",
+      "alt_track_name": "",
+      "state": "SC",
+      "track_page_url": "https://www.darlingtonraceway.com/",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2020/12/21/darlington.png",
+      "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2023/04/11/2022sept4-darlington-green-flag.jpg"
+    },
+    {
+      "track_id": 105,
+      "track_name": "Daytona International Speedway",
+      "alt_track_name": "",
+      "state": "FL",
+      "track_page_url": "http://www.daytonainternationalspeedway.com/",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2022/02/17/DIS-generic-350x290.png",
+      "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2023/02/18/NASCAR-Daytona500-Practice-1300x690-1.jpg"
+    },
+    {
+      "track_id": 103,
+      "track_name": "Dover Motor Speedway",
+      "alt_track_name": "All-Star Race",
+      "state": "DE",
+      "track_page_url": "https://www.dovermotorspeedway.com/",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2022/04/21/DMS_330x132_Header.png",
+      "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2023/04/06/2022may2-dover-mrn-tile.jpeg"
+    },
+    {
+      "track_id": 222,
+      "track_name": "Grand Prix of St. Petersburg",
+      "alt_track_name": "",
+      "state": "FL",
+      "track_page_url": "https://www.gpstpete.com/",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2025/01/02/NASCAR_CLASH_onDARKApp.png",
+      "track_background_image_url": ""
+    },
+    {
+      "track_id": 40,
+      "track_name": "Homestead-Miami Speedway",
+      "alt_track_name": "",
+      "state": "FL",
+      "track_page_url": "https://www.homesteadmiamispeedway.com/",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2022/10/20/LightLogo-330x79-1.png",
+      "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2022/10/23/GettyImages-1435943096.jpg"
+    },
+    {
+      "track_id": 123,
+      "track_name": "Indianapolis Motor Speedway",
+      "alt_track_name": "",
+      "state": "IN",
+      "track_page_url": "http://www.indianapolismotorspeedway.com/",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2025/12/09/123-light.png",
+      "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2023/10/15/1254477415-scaled.jpg"
+    },
+    {
+      "track_id": 206,
+      "track_name": "Iowa Speedway",
+      "alt_track_name": "Iowa Speedway",
+      "state": "IA",
+      "track_page_url": "https://www.iowaspeedway.com/",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2025/07/28/IOWA_Speedway.png",
+      "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2024/06/10/GettyImages-1156348035-1-scaled.jpg"
+    },
+    {
+      "track_id": 41,
+      "track_name": "Kansas Speedway",
+      "alt_track_name": "",
+      "state": "KS",
+      "track_page_url": "https://www.kansasspeedway.com/",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2024/01/23/Kansas-Speedway-New-Logo-on-Dark-1.png",
+      "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2023/04/11/GettyImages-1397409365.jpg"
+    },
+    {
+      "track_id": 42,
+      "track_name": "Las Vegas Motor Speedway",
+      "alt_track_name": "",
+      "state": "NV",
+      "track_page_url": "http://www.lvms.com/",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2021/03/01/lvms-350x224.jpg",
+      "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2022/10/16/GettyImages-1433933785.jpg"
+    },
+    {
+      "track_id": 220,
+      "track_name": "Lime Rock Park",
+      "alt_track_name": "",
+      "state": "CT",
+      "track_page_url": "https://limerock.com/",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2021/11/04/COTA-logo-image-350x207.png",
+      "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2023/03/24/2023-mar24-reddick-cota-MAIN-1.jpg"
+    },
+    {
+      "track_id": 47,
+      "track_name": "Lucas Oil Indianapolis Raceway Park",
+      "alt_track_name": "",
+      "state": "IN",
+      "track_page_url": "https://raceirp.com/",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2021/12/08/LOIRP-FINAL-350x290.png",
+      "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2022/02/15/1608864267-scaled.jpg"
+    },
+    {
+      "track_id": 22,
+      "track_name": "Martinsville Speedway",
+      "alt_track_name": "",
+      "state": "VA",
+      "track_page_url": "https://www.martinsvillespeedway.com/",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2021/11/04/MartinsvilleSpeedway-350x200.png",
+      "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2023/04/07/GettyImages-663816608-scaled.jpg"
+    },
+    {
+      "track_id": 133,
+      "track_name": "Michigan International Speedway",
+      "alt_track_name": "",
+      "state": "MI",
+      "track_page_url": "https://www.mispeedway.com/",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2023/08/01/NASCAR_MichiganSpdwy_OnLight_RGB-350x290.png",
+      "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2023/07/31/1413485526-scaled.jpg"
+    },
+    {
+      "track_id": 52,
+      "track_name": "Nashville Superspeedway",
+      "alt_track_name": "Nashville Superspeedway",
+      "state": "TN",
+      "track_page_url": "https://www.nashvillesuperspeedway.com/",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2024/06/04/NashvilleSuperSpeedway.png",
+      "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2022/06/26/2022-june26-nashville-pace.jpg"
+    },
+    {
+      "track_id": 138,
+      "track_name": "New Hampshire Motor Speedway",
+      "alt_track_name": "",
+      "state": "NH",
+      "track_page_url": "https://www.nhms.com/",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2024/06/04/NHMS_TrackLogo2-350x115.png",
+      "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2022/07/17/GettyImages-1409351828.jpg"
+    },
+    {
+      "track_id": 177,
+      "track_name": "North Wilkesboro Speedway",
+      "alt_track_name": "",
+      "state": "NC",
+      "track_page_url": "https://www.northwilkesborospeedway.com/",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2022/09/14/North_Wilkesboro_Speedway-313x290.png",
+      "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2023/05/07/wilkesboro.png"
+    },
+    {
+      "track_id": 84,
+      "track_name": "Phoenix Raceway",
+      "alt_track_name": "",
+      "state": "AZ",
+      "track_page_url": "https://www.phoenixraceway.com/",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2022/03/07/PR-Logo-3C-Horizontal.png",
+      "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2023/04/06/Phoenix-Raceway.jpeg"
+    },
+    {
+      "track_id": 198,
+      "track_name": "Pocono Raceway",
+      "alt_track_name": "",
+      "state": "PA",
+      "track_page_url": "https://www.poconoraceway.com/",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2021/06/21/Pocono-Raceway-Marketing-Logo-350x290.png",
+      "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2022/07/24/GettyImages-1410688647.jpg"
+    },
+    {
+      "track_id": 26,
+      "track_name": "Richmond Raceway",
+      "alt_track_name": "",
+      "state": "VA",
+      "track_page_url": "https://www.richmondraceway.com/",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2025/02/22/OPT-RR_Primary-Vert_OnBlk_RGB-350x290.png",
+      "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2022/08/14/GettyImages-1414840785.jpg"
+    },
+    {
+      "track_id": 175,
+      "track_name": "Rockingham Speedway",
+      "alt_track_name": "",
+      "state": "NC",
+      "track_page_url": "https://rockingham-speedway.com/",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2025/02/27/Rock-logo-gray-350x290.png",
+      "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2025/03/11/NASCAR_Camping_World_Truck_Series_at_Rockingham_Speedway_2012.jpg"
+    },
+    {
+      "track_id": 221,
+      "track_name": "San Diego Street Course",
+      "alt_track_name": "Naval Base Coronado",
+      "state": "CA",
+      "track_page_url": "https://www.nascarsandiego.com",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2025/09/03/NASCAR_SD.png",
+      "track_background_image_url": ""
+    },
+    {
+      "track_id": 99,
+      "track_name": "Sonoma Raceway",
+      "alt_track_name": "",
+      "state": "CA",
+      "track_page_url": "https://www.sonomaraceway.com/",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2021/06/01/sonoma_raceway_161-350x165.png",
+      "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2022/06/12/Image-from-iOS-4.jpg"
+    },
+    {
+      "track_id": 82,
+      "track_name": "Talladega Superspeedway",
+      "alt_track_name": "",
+      "state": "AL",
+      "track_page_url": "https://www.talladegasuperspeedway.com/",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2024/02/07/Talladega-Website-Rebrand-header.png",
+      "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2023/04/19/1429739898-scaled.jpg"
+    },
+    {
+      "track_id": 43,
+      "track_name": "Texas Motor Speedway",
+      "alt_track_name": "",
+      "state": "TX",
+      "track_page_url": "http://www.texasmotorspeedway.com/",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2021/10/12/texas-motor-speedway-350x165.png",
+      "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2022/09/25/GettyImages-1427342739-scaled.jpg"
+    },
+    {
+      "track_id": 157,
+      "track_name": "Watkins Glen International",
+      "alt_track_name": "",
+      "state": "NY",
+      "track_page_url": "https://www.theglen.com/",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2021/11/04/watkins-glen-logo-350x200.png",
+      "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2022/08/21/GettyImages-1416653857.jpg"
+    },
+    {
+      "track_id": 45,
+      "track_name": "World Wide Technology Raceway",
+      "alt_track_name": "",
+      "state": "IL",
+      "track_page_url": "https://wwtraceway.com/",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2025/02/24/WWTR_Logo_White2025.png",
+      "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2023/04/11/2021-sept14-gateway-main-image.jpg"
+    }
+  ]
+}
