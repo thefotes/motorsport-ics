@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-01-19T18:18:20.389595",
+  "scraped_at": "2026-01-26T06:16:10.620401",
   "total_tracks": 33,
   "tracks": [
     {
@@ -14,9 +14,9 @@
     {
       "track_id": 159,
       "track_name": "Bowman Gray Stadium",
-      "alt_track_name": "Busch Light Clash",
+      "alt_track_name": "",
       "state": "NC",
-      "track_page_url": "https://www.nascarclash.com/",
+      "track_page_url": "https://circuitoftheamericas.com/",
       "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2025/01/02/NASCAR_CLASH_onDARKApp.png",
       "track_background_image_url": ""
     },
