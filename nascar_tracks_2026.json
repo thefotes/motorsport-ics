@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-02-23T06:34:11.084920",
-  "total_tracks": 29,
+  "scraped_at": "2026-03-02T06:28:33.283780",
+  "total_tracks": 32,
   "tracks": [
     {
       "track_id": 111,
@@ -84,6 +84,15 @@
       "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2023/04/06/2022may2-dover-mrn-tile.jpeg"
     },
     {
+      "track_id": 222,
+      "track_name": "Grand Prix of St. Petersburg",
+      "alt_track_name": "",
+      "state": "FL",
+      "track_page_url": "https://www.gpstpete.com/",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2025/01/02/NASCAR_CLASH_onDARKApp.png",
+      "track_background_image_url": ""
+    },
+    {
       "track_id": 40,
       "track_name": "Homestead-Miami Speedway",
       "alt_track_name": "",
@@ -127,6 +136,24 @@
       "track_page_url": "http://www.lvms.com/",
       "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2021/03/01/lvms-350x224.jpg",
       "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2022/10/16/GettyImages-1433933785.jpg"
+    },
+    {
+      "track_id": 220,
+      "track_name": "Lime Rock Park",
+      "alt_track_name": "",
+      "state": "CT",
+      "track_page_url": "https://limerock.com/",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2021/11/04/COTA-logo-image-350x207.png",
+      "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2023/03/24/2023-mar24-reddick-cota-MAIN-1.jpg"
+    },
+    {
+      "track_id": 47,
+      "track_name": "Lucas Oil Indianapolis Raceway Park",
+      "alt_track_name": "",
+      "state": "IN",
+      "track_page_url": "https://raceirp.com/",
+      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2021/12/08/LOIRP-FINAL-350x290.png",
+      "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2022/02/15/1608864267-scaled.jpg"
     },
     {
       "track_id": 22,
