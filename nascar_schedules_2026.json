@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-03-16T06:42:16.192294",
+  "scraped_at": "2026-03-23T06:36:42.746505",
   "year": 2026,
   "schedules_by_series": {
     "nascar_cup_series": {
@@ -1627,7 +1627,7 @@
           "date_plain": "2026-03-20",
           "start_time": "7:30 PM",
           "scheduled_laps": 147,
-          "actual_laps": 147,
+          "actual_laps": 157,
           "qualifying_date": "2026-03-20T16:35:00-0400",
           "playoff_round": "",
           "tv_network": "FS1",
@@ -1635,7 +1635,7 @@
           "streaming": "SiriusXM",
           "in_car_camera": "",
           "tickets_url": "https://www.darlingtonraceway.com/events/spring-tickets/",
-          "race_url": "https://www.nascar.com/live-results/2026-buckle-up-south-carolina-200/",
+          "race_url": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-buckle-up-south-carolina-200/",
           "previous_winner": ""
         },
         {
@@ -2461,7 +2461,7 @@
       "date_plain": "2026-03-20",
       "start_time": "7:30 PM",
       "scheduled_laps": 147,
-      "actual_laps": 147,
+      "actual_laps": 157,
       "qualifying_date": "2026-03-20T16:35:00-0400",
       "playoff_round": "",
       "tv_network": "FS1",
@@ -2469,7 +2469,7 @@
       "streaming": "SiriusXM",
       "in_car_camera": "",
       "tickets_url": "https://www.darlingtonraceway.com/events/spring-tickets/",
-      "race_url": "https://www.nascar.com/live-results/2026-buckle-up-south-carolina-200/",
+      "race_url": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-buckle-up-south-carolina-200/",
       "previous_winner": "",
       "series": "NASCAR Craftsman Truck Series",
       "series_key": "craftsman_truck_series"
