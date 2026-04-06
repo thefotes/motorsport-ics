@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-03-30T06:48:04.410362",
+  "scraped_at": "2026-04-06T06:49:15.141478",
   "year": 2026,
   "schedules_by_series": {
     "nascar_cup_series": {
@@ -501,7 +501,7 @@
           "start_time": "7:00 PM",
           "scheduled_laps": 450,
           "actual_laps": 1,
-          "qualifying_date": "",
+          "qualifying_date": "2026-07-18T18:10:00-0400",
           "playoff_round": "",
           "tv_network": "TNT",
           "radio": "PRN",
@@ -1702,7 +1702,7 @@
           "previous_winner": ""
         },
         {
-          "race_name": "NASCAR Craftsman Truck Series Race at Watkins Glen",
+          "race_name": "Bully Hill Vineyards 176 at The Glen",
           "race_id": 5683,
           "track_name": "Watkins Glen International",
           "track_id": 157,
@@ -1719,7 +1719,7 @@
           "streaming": "SiriusXM",
           "in_car_camera": "",
           "tickets_url": "https://www.theglen.com/events/nascar-cup-series/",
-          "race_url": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-mission-176-at-the-glen/",
+          "race_url": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-bully-hill-vineyards-176-at-the-glen/",
           "previous_winner": ""
         },
         {
@@ -2843,7 +2843,7 @@
       "series_key": "nascar_cup_series"
     },
     {
-      "race_name": "NASCAR Craftsman Truck Series Race at Watkins Glen",
+      "race_name": "Bully Hill Vineyards 176 at The Glen",
       "race_id": 5683,
       "track_name": "Watkins Glen International",
       "track_id": 157,
@@ -2860,7 +2860,7 @@
       "streaming": "SiriusXM",
       "in_car_camera": "",
       "tickets_url": "https://www.theglen.com/events/nascar-cup-series/",
-      "race_url": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-mission-176-at-the-glen/",
+      "race_url": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-bully-hill-vineyards-176-at-the-glen/",
       "previous_winner": "",
       "series": "NASCAR Craftsman Truck Series",
       "series_key": "craftsman_truck_series"
@@ -3451,7 +3451,7 @@
       "start_time": "7:00 PM",
       "scheduled_laps": 450,
       "actual_laps": 1,
-      "qualifying_date": "",
+      "qualifying_date": "2026-07-18T18:10:00-0400",
       "playoff_round": "",
       "tv_network": "TNT",
       "radio": "PRN",
