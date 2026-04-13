@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-06T06:49:15.141478",
+  "scraped_at": "2026-04-13T06:56:36.064287",
   "year": 2026,
   "schedules_by_series": {
     "nascar_cup_series": {
       "series_name": "NASCAR Cup Series",
       "series_id": 1,
-      "total_races": 40,
+      "total_races": 41,
       "races": [
         {
           "race_name": "Cook Out Clash at Bowman Gray Stadium",
@@ -227,7 +227,7 @@
           "date_plain": "2026-04-12",
           "start_time": "3:00 PM",
           "scheduled_laps": 500,
-          "actual_laps": 500,
+          "actual_laps": 505,
           "qualifying_date": "2026-04-11T17:40:00-0400",
           "playoff_round": "",
           "tv_network": "FS1",
@@ -846,6 +846,27 @@
           "tickets_url": "https://www.homesteadmiamispeedway.com/events/champ/",
           "race_url": "https://www.nascar.com/live-results/nascar-cup-series/2026-nascar-cup-series-championship-race/",
           "previous_winner": "Kyle Larson"
+        },
+        {
+          "race_name": "SIM TEST Lime Rock",
+          "race_id": 5549,
+          "track_name": "Bowman Gray Stadium",
+          "track_id": 159,
+          "state": "NC",
+          "date": "2026-12-31T15:30:00-0500",
+          "date_plain": "2026-12-31",
+          "start_time": "3:30 PM",
+          "scheduled_laps": 0,
+          "actual_laps": 0,
+          "qualifying_date": "",
+          "playoff_round": "",
+          "tv_network": "FOX",
+          "radio": "MRN",
+          "streaming": "SiriusXM",
+          "in_car_camera": "MAX",
+          "tickets_url": "https://www.nascaratcota.com/events/echopark-automotive-grand-prix/tickets/",
+          "race_url": "https://www.nascar.com/live-results/nascar-cup-series/2026-sim-test/",
+          "previous_winner": "William Byron"
         }
       ]
     },
@@ -2668,7 +2689,7 @@
       "date_plain": "2026-04-12",
       "start_time": "3:00 PM",
       "scheduled_laps": 500,
-      "actual_laps": 500,
+      "actual_laps": 505,
       "qualifying_date": "2026-04-11T17:40:00-0400",
       "playoff_round": "",
       "tv_network": "FS1",
@@ -4334,6 +4355,29 @@
       "tickets_url": "https://www.homesteadmiamispeedway.com/events/champ/",
       "race_url": "https://www.nascar.com/live-results/nascar-cup-series/2026-nascar-cup-series-championship-race/",
       "previous_winner": "Kyle Larson",
+      "series": "NASCAR Cup Series",
+      "series_key": "nascar_cup_series"
+    },
+    {
+      "race_name": "SIM TEST Lime Rock",
+      "race_id": 5549,
+      "track_name": "Bowman Gray Stadium",
+      "track_id": 159,
+      "state": "NC",
+      "date": "2026-12-31T15:30:00-0500",
+      "date_plain": "2026-12-31",
+      "start_time": "3:30 PM",
+      "scheduled_laps": 0,
+      "actual_laps": 0,
+      "qualifying_date": "",
+      "playoff_round": "",
+      "tv_network": "FOX",
+      "radio": "MRN",
+      "streaming": "SiriusXM",
+      "in_car_camera": "MAX",
+      "tickets_url": "https://www.nascaratcota.com/events/echopark-automotive-grand-prix/tickets/",
+      "race_url": "https://www.nascar.com/live-results/nascar-cup-series/2026-sim-test/",
+      "previous_winner": "William Byron",
       "series": "NASCAR Cup Series",
       "series_key": "nascar_cup_series"
     }
