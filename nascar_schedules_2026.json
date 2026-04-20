@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-04-13T06:56:36.064287",
+  "scraped_at": "2026-04-20T06:58:08.933578",
   "year": 2026,
   "schedules_by_series": {
     "nascar_cup_series": {
@@ -248,7 +248,7 @@
           "date_plain": "2026-04-19",
           "start_time": "2:00 PM",
           "scheduled_laps": 267,
-          "actual_laps": 267,
+          "actual_laps": 274,
           "qualifying_date": "2026-04-18T16:10:00-0400",
           "playoff_round": "",
           "tv_network": "FOX",
@@ -438,7 +438,7 @@
           "start_time": "4:00 PM",
           "scheduled_laps": 75,
           "actual_laps": 75,
-          "qualifying_date": "",
+          "qualifying_date": "2026-06-20T12:30:00-0400",
           "playoff_round": "",
           "tv_network": "Prime Video",
           "radio": "MRN",
@@ -1086,7 +1086,7 @@
           "previous_winner": "Brandon Jones"
         },
         {
-          "race_name": "NASCAR O'Reilly Auto Parts Series Race at Talladega",
+          "race_name": "Ag-Pro 300",
           "race_id": 5644,
           "track_name": "Talladega Superspeedway",
           "track_id": 82,
@@ -1103,7 +1103,7 @@
           "streaming": "SiriusXM",
           "in_car_camera": "",
           "tickets_url": "https://www.talladegasuperspeedway.com/events/spring-cup-race/",
-          "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-talladega/",
+          "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-ag-pro-300/",
           "previous_winner": "Austin Hill"
         },
         {
@@ -1243,7 +1243,7 @@
           "start_time": "5:00 PM",
           "scheduled_laps": 60,
           "actual_laps": 60,
-          "qualifying_date": "",
+          "qualifying_date": "2026-06-20T11:00:00-0400",
           "playoff_round": "",
           "tv_network": "CW",
           "radio": "MRN",
@@ -1254,7 +1254,7 @@
           "previous_winner": ""
         },
         {
-          "race_name": "NASCAR O'Reilly Auto Parts Series Race at Sonoma",
+          "race_name": "Pit Boss/FoodMaxx 250",
           "race_id": 5652,
           "track_name": "Sonoma Raceway",
           "track_id": 99,
@@ -1271,7 +1271,7 @@
           "streaming": "SiriusXM",
           "in_car_camera": "",
           "tickets_url": "https://www.sonomaraceway.com/events/toyota-save-mart-350/tickets/",
-          "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-sonoma/",
+          "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026/pit-boss-food-maxx-250/",
           "previous_winner": "Connor Zilisch"
         },
         {
@@ -1838,7 +1838,7 @@
           "start_time": "7:00 PM",
           "scheduled_laps": 50,
           "actual_laps": 50,
-          "qualifying_date": "",
+          "qualifying_date": "2026-06-19T12:00:00-0400",
           "playoff_round": "",
           "tv_network": "FS1",
           "radio": "NRN",
@@ -1888,7 +1888,7 @@
           "in_car_camera": "",
           "tickets_url": "https://www.northwilkesborospeedway.com/events/window-world-400/tickets/",
           "race_url": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-window-world-250/",
-          "previous_winner": ""
+          "previous_winner": "Chandler Smith"
         },
         {
           "race_name": "NASCAR Craftsman Truck Series Race at IRP",
@@ -2735,7 +2735,7 @@
       "date_plain": "2026-04-19",
       "start_time": "2:00 PM",
       "scheduled_laps": 267,
-      "actual_laps": 267,
+      "actual_laps": 274,
       "qualifying_date": "2026-04-18T16:10:00-0400",
       "playoff_round": "",
       "tv_network": "FOX",
@@ -2749,7 +2749,7 @@
       "series_key": "nascar_cup_series"
     },
     {
-      "race_name": "NASCAR O'Reilly Auto Parts Series Race at Talladega",
+      "race_name": "Ag-Pro 300",
       "race_id": 5644,
       "track_name": "Talladega Superspeedway",
       "track_id": 82,
@@ -2766,7 +2766,7 @@
       "streaming": "SiriusXM",
       "in_car_camera": "",
       "tickets_url": "https://www.talladegasuperspeedway.com/events/spring-cup-race/",
-      "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-talladega/",
+      "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-ag-pro-300/",
       "previous_winner": "Austin Hill",
       "series": "NASCAR Xfinity Series",
       "series_key": "xfinity_series"
@@ -3242,7 +3242,7 @@
       "start_time": "7:00 PM",
       "scheduled_laps": 50,
       "actual_laps": 50,
-      "qualifying_date": "",
+      "qualifying_date": "2026-06-19T12:00:00-0400",
       "playoff_round": "",
       "tv_network": "FS1",
       "radio": "NRN",
@@ -3265,7 +3265,7 @@
       "start_time": "5:00 PM",
       "scheduled_laps": 60,
       "actual_laps": 60,
-      "qualifying_date": "",
+      "qualifying_date": "2026-06-20T11:00:00-0400",
       "playoff_round": "",
       "tv_network": "CW",
       "radio": "MRN",
@@ -3288,7 +3288,7 @@
       "start_time": "4:00 PM",
       "scheduled_laps": 75,
       "actual_laps": 75,
-      "qualifying_date": "",
+      "qualifying_date": "2026-06-20T12:30:00-0400",
       "playoff_round": "",
       "tv_network": "Prime Video",
       "radio": "MRN",
@@ -3301,7 +3301,7 @@
       "series_key": "nascar_cup_series"
     },
     {
-      "race_name": "NASCAR O'Reilly Auto Parts Series Race at Sonoma",
+      "race_name": "Pit Boss/FoodMaxx 250",
       "race_id": 5652,
       "track_name": "Sonoma Raceway",
       "track_id": 99,
@@ -3318,7 +3318,7 @@
       "streaming": "SiriusXM",
       "in_car_camera": "",
       "tickets_url": "https://www.sonomaraceway.com/events/toyota-save-mart-350/tickets/",
-      "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-sonoma/",
+      "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026/pit-boss-food-maxx-250/",
       "previous_winner": "Connor Zilisch",
       "series": "NASCAR Xfinity Series",
       "series_key": "xfinity_series"
@@ -3457,7 +3457,7 @@
       "in_car_camera": "",
       "tickets_url": "https://www.northwilkesborospeedway.com/events/window-world-400/tickets/",
       "race_url": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-window-world-250/",
-      "previous_winner": "",
+      "previous_winner": "Chandler Smith",
       "series": "NASCAR Craftsman Truck Series",
       "series_key": "craftsman_truck_series"
     },
