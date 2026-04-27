@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-20T06:58:08.933578",
+  "scraped_at": "2026-04-27T07:06:38.680358",
   "year": 2026,
   "schedules_by_series": {
     "nascar_cup_series": {
       "series_name": "NASCAR Cup Series",
       "series_id": 1,
-      "total_races": 41,
+      "total_races": 40,
       "races": [
         {
           "race_name": "Cook Out Clash at Bowman Gray Stadium",
@@ -438,7 +438,7 @@
           "start_time": "4:00 PM",
           "scheduled_laps": 75,
           "actual_laps": 75,
-          "qualifying_date": "2026-06-20T12:30:00-0400",
+          "qualifying_date": "2026-06-20T08:30:00-0400",
           "playoff_round": "",
           "tv_network": "Prime Video",
           "radio": "MRN",
@@ -846,27 +846,6 @@
           "tickets_url": "https://www.homesteadmiamispeedway.com/events/champ/",
           "race_url": "https://www.nascar.com/live-results/nascar-cup-series/2026-nascar-cup-series-championship-race/",
           "previous_winner": "Kyle Larson"
-        },
-        {
-          "race_name": "SIM TEST Lime Rock",
-          "race_id": 5549,
-          "track_name": "Bowman Gray Stadium",
-          "track_id": 159,
-          "state": "NC",
-          "date": "2026-12-31T15:30:00-0500",
-          "date_plain": "2026-12-31",
-          "start_time": "3:30 PM",
-          "scheduled_laps": 0,
-          "actual_laps": 0,
-          "qualifying_date": "",
-          "playoff_round": "",
-          "tv_network": "FOX",
-          "radio": "MRN",
-          "streaming": "SiriusXM",
-          "in_car_camera": "MAX",
-          "tickets_url": "https://www.nascaratcota.com/events/echopark-automotive-grand-prix/tickets/",
-          "race_url": "https://www.nascar.com/live-results/nascar-cup-series/2026-sim-test/",
-          "previous_winner": "William Byron"
         }
       ]
     },
@@ -1243,7 +1222,7 @@
           "start_time": "5:00 PM",
           "scheduled_laps": 60,
           "actual_laps": 60,
-          "qualifying_date": "2026-06-20T11:00:00-0400",
+          "qualifying_date": "2026-06-20T07:00:00-0400",
           "playoff_round": "",
           "tv_network": "CW",
           "radio": "MRN",
@@ -1838,7 +1817,7 @@
           "start_time": "7:00 PM",
           "scheduled_laps": 50,
           "actual_laps": 50,
-          "qualifying_date": "2026-06-19T12:00:00-0400",
+          "qualifying_date": "2026-06-19T08:00:00-0400",
           "playoff_round": "",
           "tv_network": "FS1",
           "radio": "NRN",
@@ -1870,7 +1849,7 @@
           "previous_winner": ""
         },
         {
-          "race_name": "Window World 250",
+          "race_name": "Faith Fest 250",
           "race_id": 5676,
           "track_name": "North Wilkesboro Speedway",
           "track_id": 177,
@@ -1886,8 +1865,8 @@
           "radio": "NRN",
           "streaming": "SiriusXM",
           "in_car_camera": "",
-          "tickets_url": "https://www.northwilkesborospeedway.com/events/window-world-400/tickets/",
-          "race_url": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-window-world-250/",
+          "tickets_url": "https://www.northwilkesborospeedway.com/events/window-world-450/tickets/",
+          "race_url": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-faithfest-250/",
           "previous_winner": "Chandler Smith"
         },
         {
@@ -3242,7 +3221,7 @@
       "start_time": "7:00 PM",
       "scheduled_laps": 50,
       "actual_laps": 50,
-      "qualifying_date": "2026-06-19T12:00:00-0400",
+      "qualifying_date": "2026-06-19T08:00:00-0400",
       "playoff_round": "",
       "tv_network": "FS1",
       "radio": "NRN",
@@ -3265,7 +3244,7 @@
       "start_time": "5:00 PM",
       "scheduled_laps": 60,
       "actual_laps": 60,
-      "qualifying_date": "2026-06-20T11:00:00-0400",
+      "qualifying_date": "2026-06-20T07:00:00-0400",
       "playoff_round": "",
       "tv_network": "CW",
       "radio": "MRN",
@@ -3288,7 +3267,7 @@
       "start_time": "4:00 PM",
       "scheduled_laps": 75,
       "actual_laps": 75,
-      "qualifying_date": "2026-06-20T12:30:00-0400",
+      "qualifying_date": "2026-06-20T08:30:00-0400",
       "playoff_round": "",
       "tv_network": "Prime Video",
       "radio": "MRN",
@@ -3439,7 +3418,7 @@
       "series_key": "nascar_cup_series"
     },
     {
-      "race_name": "Window World 250",
+      "race_name": "Faith Fest 250",
       "race_id": 5676,
       "track_name": "North Wilkesboro Speedway",
       "track_id": 177,
@@ -3455,8 +3434,8 @@
       "radio": "NRN",
       "streaming": "SiriusXM",
       "in_car_camera": "",
-      "tickets_url": "https://www.northwilkesborospeedway.com/events/window-world-400/tickets/",
-      "race_url": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-window-world-250/",
+      "tickets_url": "https://www.northwilkesborospeedway.com/events/window-world-450/tickets/",
+      "race_url": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-faithfest-250/",
       "previous_winner": "Chandler Smith",
       "series": "NASCAR Craftsman Truck Series",
       "series_key": "craftsman_truck_series"
@@ -4355,29 +4334,6 @@
       "tickets_url": "https://www.homesteadmiamispeedway.com/events/champ/",
       "race_url": "https://www.nascar.com/live-results/nascar-cup-series/2026-nascar-cup-series-championship-race/",
       "previous_winner": "Kyle Larson",
-      "series": "NASCAR Cup Series",
-      "series_key": "nascar_cup_series"
-    },
-    {
-      "race_name": "SIM TEST Lime Rock",
-      "race_id": 5549,
-      "track_name": "Bowman Gray Stadium",
-      "track_id": 159,
-      "state": "NC",
-      "date": "2026-12-31T15:30:00-0500",
-      "date_plain": "2026-12-31",
-      "start_time": "3:30 PM",
-      "scheduled_laps": 0,
-      "actual_laps": 0,
-      "qualifying_date": "",
-      "playoff_round": "",
-      "tv_network": "FOX",
-      "radio": "MRN",
-      "streaming": "SiriusXM",
-      "in_car_camera": "MAX",
-      "tickets_url": "https://www.nascaratcota.com/events/echopark-automotive-grand-prix/tickets/",
-      "race_url": "https://www.nascar.com/live-results/nascar-cup-series/2026-sim-test/",
-      "previous_winner": "William Byron",
       "series": "NASCAR Cup Series",
       "series_key": "nascar_cup_series"
     }
