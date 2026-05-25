@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-18T07:38:53.561254",
+  "scraped_at": "2026-05-25T07:49:30.203721",
   "year": 2026,
   "schedules_by_series": {
     "nascar_cup_series": {
@@ -353,7 +353,7 @@
           "date_plain": "2026-05-24",
           "start_time": "6:00 PM",
           "scheduled_laps": 400,
-          "actual_laps": 400,
+          "actual_laps": 373,
           "qualifying_date": "2026-05-23T14:40:00-0400",
           "playoff_round": "",
           "tv_network": "Prime Video",
@@ -470,7 +470,7 @@
           "previous_winner": "Shane van Gisbergen"
         },
         {
-          "race_name": "NASCAR Cup Series Race at Chicagoland",
+          "race_name": "eero 400",
           "race_id": 5616,
           "track_name": "Chicagoland Speedway",
           "track_id": 39,
@@ -487,7 +487,7 @@
           "streaming": "SiriusXM",
           "in_car_camera": "MAX",
           "tickets_url": "https://www.chicagolandspeedway.com/events/nascar-cup-series/",
-          "race_url": "https://www.nascar.com/live-results/nascar-cup-series/2026-nascar-cup-series-at-chicagoland/",
+          "race_url": "https://www.nascar.com/live-results/nascar-cup-series/2026-eero-400/",
           "previous_winner": ""
         },
         {
@@ -1158,7 +1158,7 @@
           "date_plain": "2026-05-23",
           "start_time": "5:00 PM",
           "scheduled_laps": 200,
-          "actual_laps": 200,
+          "actual_laps": 91,
           "qualifying_date": "2026-05-23T12:05:00-0400",
           "playoff_round": "",
           "tv_network": "CW",
@@ -1212,7 +1212,7 @@
           "previous_winner": "Connor Zilisch"
         },
         {
-          "race_name": "NASCAR O'Reilly Auto Parts Series Race at San Diego",
+          "race_name": "United Rentals Driven to Serve 250",
           "race_id": 5648,
           "track_name": "San Diego Street Course",
           "track_id": 221,
@@ -1229,7 +1229,7 @@
           "streaming": "SiriusXM",
           "in_car_camera": "",
           "tickets_url": "https://www.nascarsandiego.com/events/nascar-cup-series/",
-          "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-san-diego/",
+          "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-united-rentals-driven-to-serve-250/",
           "previous_winner": ""
         },
         {
@@ -1749,11 +1749,11 @@
           "track_name": "Charlotte Motor Speedway",
           "track_id": 162,
           "state": "NC",
-          "date": "2026-05-22T19:30:00-0400",
-          "date_plain": "2026-05-22",
-          "start_time": "7:30 PM",
+          "date": "2026-05-24T10:00:00-0400",
+          "date_plain": "2026-05-24",
+          "start_time": "10:00 AM",
           "scheduled_laps": 134,
-          "actual_laps": 134,
+          "actual_laps": 110,
           "qualifying_date": "2026-05-22T16:35:00-0400",
           "playoff_round": "",
           "tv_network": "FS1",
@@ -1765,7 +1765,7 @@
           "previous_winner": ""
         },
         {
-          "race_name": "Flote 200",
+          "race_name": "Allegiance 200",
           "race_id": 5678,
           "track_name": "Nashville Superspeedway",
           "track_id": 52,
@@ -1782,7 +1782,7 @@
           "streaming": "SiriusXM",
           "in_car_camera": "",
           "tickets_url": "https://www.nashvillesuperspeedway.com/events/nascar-craftsman-series-200/",
-          "race_url": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/flote-200/",
+          "race_url": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/allegiance-200/",
           "previous_winner": "Rajah Caruth"
         },
         {
@@ -2981,29 +2981,6 @@
       "series_key": "nascar_cup_series"
     },
     {
-      "race_name": "North Carolina Education Lottery 200",
-      "race_id": 5677,
-      "track_name": "Charlotte Motor Speedway",
-      "track_id": 162,
-      "state": "NC",
-      "date": "2026-05-22T19:30:00-0400",
-      "date_plain": "2026-05-22",
-      "start_time": "7:30 PM",
-      "scheduled_laps": 134,
-      "actual_laps": 134,
-      "qualifying_date": "2026-05-22T16:35:00-0400",
-      "playoff_round": "",
-      "tv_network": "FS1",
-      "radio": "NRN",
-      "streaming": "SiriusXM",
-      "in_car_camera": "",
-      "tickets_url": "https://www.charlottemotorspeedway.com/events/nc-education-lottery-200/",
-      "race_url": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-north-carolina-education-lottery-200/",
-      "previous_winner": "",
-      "series": "NASCAR Craftsman Truck Series",
-      "series_key": "craftsman_truck_series"
-    },
-    {
       "race_name": "Charbroil 300",
       "race_id": 5646,
       "track_name": "Charlotte Motor Speedway",
@@ -3013,7 +2990,7 @@
       "date_plain": "2026-05-23",
       "start_time": "5:00 PM",
       "scheduled_laps": 200,
-      "actual_laps": 200,
+      "actual_laps": 91,
       "qualifying_date": "2026-05-23T12:05:00-0400",
       "playoff_round": "",
       "tv_network": "CW",
@@ -3036,7 +3013,7 @@
       "date_plain": "2026-05-24",
       "start_time": "6:00 PM",
       "scheduled_laps": 400,
-      "actual_laps": 400,
+      "actual_laps": 373,
       "qualifying_date": "2026-05-23T14:40:00-0400",
       "playoff_round": "",
       "tv_network": "Prime Video",
@@ -3050,7 +3027,30 @@
       "series_key": "nascar_cup_series"
     },
     {
-      "race_name": "Flote 200",
+      "race_name": "North Carolina Education Lottery 200",
+      "race_id": 5677,
+      "track_name": "Charlotte Motor Speedway",
+      "track_id": 162,
+      "state": "NC",
+      "date": "2026-05-24T10:00:00-0400",
+      "date_plain": "2026-05-24",
+      "start_time": "10:00 AM",
+      "scheduled_laps": 134,
+      "actual_laps": 110,
+      "qualifying_date": "2026-05-22T16:35:00-0400",
+      "playoff_round": "",
+      "tv_network": "FS1",
+      "radio": "NRN",
+      "streaming": "SiriusXM",
+      "in_car_camera": "",
+      "tickets_url": "https://www.charlottemotorspeedway.com/events/nc-education-lottery-200/",
+      "race_url": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-north-carolina-education-lottery-200/",
+      "previous_winner": "",
+      "series": "NASCAR Craftsman Truck Series",
+      "series_key": "craftsman_truck_series"
+    },
+    {
+      "race_name": "Allegiance 200",
       "race_id": 5678,
       "track_name": "Nashville Superspeedway",
       "track_id": 52,
@@ -3067,7 +3067,7 @@
       "streaming": "SiriusXM",
       "in_car_camera": "",
       "tickets_url": "https://www.nashvillesuperspeedway.com/events/nascar-craftsman-series-200/",
-      "race_url": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/flote-200/",
+      "race_url": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/allegiance-200/",
       "previous_winner": "Rajah Caruth",
       "series": "NASCAR Craftsman Truck Series",
       "series_key": "craftsman_truck_series"
@@ -3234,7 +3234,7 @@
       "series_key": "craftsman_truck_series"
     },
     {
-      "race_name": "NASCAR O'Reilly Auto Parts Series Race at San Diego",
+      "race_name": "United Rentals Driven to Serve 250",
       "race_id": 5648,
       "track_name": "San Diego Street Course",
       "track_id": 221,
@@ -3251,7 +3251,7 @@
       "streaming": "SiriusXM",
       "in_car_camera": "",
       "tickets_url": "https://www.nascarsandiego.com/events/nascar-cup-series/",
-      "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-san-diego/",
+      "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-united-rentals-driven-to-serve-250/",
       "previous_winner": "",
       "series": "NASCAR Xfinity Series",
       "series_key": "xfinity_series"
@@ -3349,7 +3349,7 @@
       "series_key": "xfinity_series"
     },
     {
-      "race_name": "NASCAR Cup Series Race at Chicagoland",
+      "race_name": "eero 400",
       "race_id": 5616,
       "track_name": "Chicagoland Speedway",
       "track_id": 39,
@@ -3366,7 +3366,7 @@
       "streaming": "SiriusXM",
       "in_car_camera": "MAX",
       "tickets_url": "https://www.chicagolandspeedway.com/events/nascar-cup-series/",
-      "race_url": "https://www.nascar.com/live-results/nascar-cup-series/2026-nascar-cup-series-at-chicagoland/",
+      "race_url": "https://www.nascar.com/live-results/nascar-cup-series/2026-eero-400/",
       "previous_winner": "",
       "series": "NASCAR Cup Series",
       "series_key": "nascar_cup_series"
