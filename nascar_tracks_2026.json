@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-25T07:49:30.207494",
-  "total_tracks": 32,
+  "scraped_at": "2026-06-01T08:04:04.859545",
+  "total_tracks": 28,
   "tracks": [
     {
       "track_id": 111,
@@ -84,15 +84,6 @@
       "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2023/04/06/2022may2-dover-mrn-tile.jpeg"
     },
     {
-      "track_id": 222,
-      "track_name": "Grand Prix of St. Petersburg",
-      "alt_track_name": "",
-      "state": "FL",
-      "track_page_url": "https://www.gpstpete.com/",
-      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2025/01/02/NASCAR_CLASH_onDARKApp.png",
-      "track_background_image_url": ""
-    },
-    {
       "track_id": 40,
       "track_name": "Homestead-Miami Speedway",
       "alt_track_name": "",
@@ -136,24 +127,6 @@
       "track_page_url": "http://www.lvms.com/",
       "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2021/03/01/lvms-350x224.jpg",
       "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2022/10/16/GettyImages-1433933785.jpg"
-    },
-    {
-      "track_id": 220,
-      "track_name": "Lime Rock Park",
-      "alt_track_name": "",
-      "state": "CT",
-      "track_page_url": "https://limerock.com/",
-      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2021/11/04/COTA-logo-image-350x207.png",
-      "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2023/03/24/2023-mar24-reddick-cota-MAIN-1.jpg"
-    },
-    {
-      "track_id": 47,
-      "track_name": "Lucas Oil Indianapolis Raceway Park",
-      "alt_track_name": "",
-      "state": "IN",
-      "track_page_url": "https://raceirp.com/",
-      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2021/12/08/LOIRP-FINAL-350x290.png",
-      "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2022/02/15/1608864267-scaled.jpg"
     },
     {
       "track_id": 22,
@@ -226,15 +199,6 @@
       "track_page_url": "https://www.richmondraceway.com/",
       "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2025/02/22/OPT-RR_Primary-Vert_OnBlk_RGB-350x290.png",
       "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2022/08/14/GettyImages-1414840785.jpg"
-    },
-    {
-      "track_id": 175,
-      "track_name": "Rockingham Speedway",
-      "alt_track_name": "",
-      "state": "NC",
-      "track_page_url": "https://rockingham-speedway.com/",
-      "track_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2025/02/27/Rock-logo-gray-350x290.png",
-      "track_background_image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2025/03/11/NASCAR_Camping_World_Truck_Series_at_Rockingham_Speedway_2012.jpg"
     },
     {
       "track_id": 221,
