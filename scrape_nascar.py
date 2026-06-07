@@ -8,7 +8,12 @@ Uses direct API endpoints discovered from the NASCAR website.
 import asyncio
 import json
 from datetime import datetime
-from playwright.async_api import async_playwright
+from urllib.request import Request, urlopen
+
+try:
+    from playwright.async_api import async_playwright
+except ImportError:  # Browser fallback is optional; direct API fetches do not need Playwright.
+    async_playwright = None
 
 # NASCAR API endpoints (discovered from website network traffic)
 # Series IDs: 1 = Cup Series, 2 = Xfinity Series, 3 = Craftsman Truck Series
@@ -76,8 +81,28 @@ def extract_track_info(race: dict) -> dict:
     }
 
 
-async def fetch_schedule_via_browser(series_key: str, config: dict) -> tuple[dict, list]:
+def fetch_schedule_direct(config: dict) -> tuple[dict | None, list]:
+    """Fetch schedule data directly from NASCAR's JSON feed."""
+    api_url = config["api_url"]
+    request = Request(
+        api_url,
+        headers={
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Accept": "application/json",
+        },
+    )
+    with urlopen(request, timeout=30) as response:
+        data = json.loads(response.read().decode("utf-8"))
+    raw_races = data.get("response", [])
+    return data, raw_races
+
+
+async def fetch_schedule_via_browser(series_key: str, config: dict) -> tuple[dict | None, list]:
     """Fetch schedule data by intercepting API calls during page load."""
+    if async_playwright is None:
+        print("  Browser fallback unavailable: playwright is not installed")
+        return None, []
+
     api_url = config["api_url"]
     schedule_data = None
     raw_races = []
@@ -136,7 +161,12 @@ async def main():
         print(f"\nFetching {config['name']}...")
         print(f"  API: {config['api_url']}")
 
-        schedule_data, raw_races = await fetch_schedule_via_browser(series_key, config)
+        try:
+            schedule_data, raw_races = fetch_schedule_direct(config)
+        except Exception as e:
+            print(f"  Direct API fetch failed: {e}")
+            print("  Trying browser fallback...")
+            schedule_data, raw_races = await fetch_schedule_via_browser(series_key, config)
 
         if schedule_data and raw_races:
             races = [extract_race_info(race) for race in raw_races]
@@ -178,6 +208,18 @@ async def main():
                 "series_id": config["series_id"],
                 "error": "Failed to fetch data",
             }
+
+    failed_series = [
+        schedule["series_name"]
+        for schedule in all_schedules.values()
+        if schedule.get("error")
+    ]
+    if failed_series:
+        print("\nERROR: Failed to fetch complete schedule data for:")
+        for series_name in failed_series:
+            print(f"  - {series_name}")
+        print("Leaving existing output files unchanged to avoid publishing a partial calendar.")
+        raise SystemExit(1)
 
     # Sort flat list by date
     all_races_flat.sort(key=lambda x: x["date_plain"])
