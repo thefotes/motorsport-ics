@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-08T07:59:08.894635",
+  "scraped_at": "2026-06-15T08:17:52.522504",
   "year": 2026,
   "schedules_by_series": {
     "nascar_cup_series": {
       "series_name": "NASCAR Cup Series",
       "series_id": 1,
-      "total_races": 40,
+      "total_races": 41,
       "races": [
         {
           "race_name": "Cook Out Clash at Bowman Gray Stadium",
@@ -412,9 +412,9 @@
           "track_name": "Pocono Raceway",
           "track_id": 198,
           "state": "PA",
-          "date": "2026-06-14T15:00:00-0400",
+          "date": "2026-06-14T13:00:00-0400",
           "date_plain": "2026-06-14",
-          "start_time": "3:00 PM",
+          "start_time": "1:00 PM",
           "scheduled_laps": 160,
           "actual_laps": 160,
           "qualifying_date": "2026-06-13T14:10:00-0400",
@@ -846,6 +846,27 @@
           "tickets_url": "https://www.homesteadmiamispeedway.com/events/champ/",
           "race_url": "https://www.nascar.com/live-results/nascar-cup-series/2026-nascar-cup-series-championship-race/",
           "previous_winner": "Kyle Larson"
+        },
+        {
+          "race_name": "SIM TEST Lime Rock",
+          "race_id": 5576,
+          "track_name": "Talladega Superspeedway",
+          "track_id": 82,
+          "state": "AL",
+          "date": "2026-12-31T15:30:00-0500",
+          "date_plain": "2026-12-31",
+          "start_time": "3:30 PM",
+          "scheduled_laps": 0,
+          "actual_laps": 0,
+          "qualifying_date": "",
+          "playoff_round": "",
+          "tv_network": "FOX",
+          "radio": "MRN",
+          "streaming": "SiriusXM",
+          "in_car_camera": "MAX",
+          "tickets_url": "https://www.nascaratcota.com/events/echopark-automotive-grand-prix/tickets/",
+          "race_url": "https://www.nascar.com/live-results/nascar-cup-series/2026-sim-test/",
+          "previous_winner": "William Byron"
         }
       ]
     },
@@ -1807,7 +1828,7 @@
           "previous_winner": "Stewart Friesen"
         },
         {
-          "race_name": "NASCAR CRAFTSMAN Truck Series Race at San Diego",
+          "race_name": "Navy 250",
           "race_id": 5680,
           "track_name": "San Diego Street Course",
           "track_id": 221,
@@ -1824,11 +1845,11 @@
           "streaming": "SiriusXM",
           "in_car_camera": "",
           "tickets_url": "https://www.nascarsandiego.com/events/nascar-cup-series/",
-          "race_url": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-ncts-race-at-san-diego/",
+          "race_url": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-navy-250/",
           "previous_winner": ""
         },
         {
-          "race_name": "NASCAR Craftsman Truck Series at Lime Rock",
+          "race_name": "LiUNA 150",
           "race_id": 5681,
           "track_name": "Lime Rock Park",
           "track_id": 220,
@@ -3193,9 +3214,9 @@
       "track_name": "Pocono Raceway",
       "track_id": 198,
       "state": "PA",
-      "date": "2026-06-14T15:00:00-0400",
+      "date": "2026-06-14T13:00:00-0400",
       "date_plain": "2026-06-14",
-      "start_time": "3:00 PM",
+      "start_time": "1:00 PM",
       "scheduled_laps": 160,
       "actual_laps": 160,
       "qualifying_date": "2026-06-13T14:10:00-0400",
@@ -3211,7 +3232,7 @@
       "series_key": "nascar_cup_series"
     },
     {
-      "race_name": "NASCAR CRAFTSMAN Truck Series Race at San Diego",
+      "race_name": "Navy 250",
       "race_id": 5680,
       "track_name": "San Diego Street Course",
       "track_id": 221,
@@ -3228,7 +3249,7 @@
       "streaming": "SiriusXM",
       "in_car_camera": "",
       "tickets_url": "https://www.nascarsandiego.com/events/nascar-cup-series/",
-      "race_url": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-ncts-race-at-san-diego/",
+      "race_url": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-navy-250/",
       "previous_winner": "",
       "series": "NASCAR Craftsman Truck Series",
       "series_key": "craftsman_truck_series"
@@ -3395,7 +3416,7 @@
       "series_key": "xfinity_series"
     },
     {
-      "race_name": "NASCAR Craftsman Truck Series at Lime Rock",
+      "race_name": "LiUNA 150",
       "race_id": 5681,
       "track_name": "Lime Rock Park",
       "track_id": 220,
@@ -4334,6 +4355,29 @@
       "tickets_url": "https://www.homesteadmiamispeedway.com/events/champ/",
       "race_url": "https://www.nascar.com/live-results/nascar-cup-series/2026-nascar-cup-series-championship-race/",
       "previous_winner": "Kyle Larson",
+      "series": "NASCAR Cup Series",
+      "series_key": "nascar_cup_series"
+    },
+    {
+      "race_name": "SIM TEST Lime Rock",
+      "race_id": 5576,
+      "track_name": "Talladega Superspeedway",
+      "track_id": 82,
+      "state": "AL",
+      "date": "2026-12-31T15:30:00-0500",
+      "date_plain": "2026-12-31",
+      "start_time": "3:30 PM",
+      "scheduled_laps": 0,
+      "actual_laps": 0,
+      "qualifying_date": "",
+      "playoff_round": "",
+      "tv_network": "FOX",
+      "radio": "MRN",
+      "streaming": "SiriusXM",
+      "in_car_camera": "MAX",
+      "tickets_url": "https://www.nascaratcota.com/events/echopark-automotive-grand-prix/tickets/",
+      "race_url": "https://www.nascar.com/live-results/nascar-cup-series/2026-sim-test/",
+      "previous_winner": "William Byron",
       "series": "NASCAR Cup Series",
       "series_key": "nascar_cup_series"
     }
