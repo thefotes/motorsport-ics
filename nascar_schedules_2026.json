@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-15T08:17:52.522504",
+  "scraped_at": "2026-06-22T08:18:23.800558",
   "year": 2026,
   "schedules_by_series": {
     "nascar_cup_series": {
       "series_name": "NASCAR Cup Series",
       "series_id": 1,
-      "total_races": 41,
+      "total_races": 40,
       "races": [
         {
           "race_name": "Cook Out Clash at Bowman Gray Stadium",
@@ -675,7 +675,7 @@
           "radio": "MRN",
           "streaming": "SiriusXM",
           "in_car_camera": "MAX",
-          "tickets_url": "https://www.tixr.com/promoters/NASCAR",
+          "tickets_url": "https://www.tixr.com/promoters/nascar",
           "race_url": "https://www.nascar.com/live-results/nascar-cup-series/2026-enjoy-illinois-300/",
           "previous_winner": "Denny Hamlin"
         },
@@ -846,27 +846,6 @@
           "tickets_url": "https://www.homesteadmiamispeedway.com/events/champ/",
           "race_url": "https://www.nascar.com/live-results/nascar-cup-series/2026-nascar-cup-series-championship-race/",
           "previous_winner": "Kyle Larson"
-        },
-        {
-          "race_name": "SIM TEST Lime Rock",
-          "race_id": 5576,
-          "track_name": "Talladega Superspeedway",
-          "track_id": 82,
-          "state": "AL",
-          "date": "2026-12-31T15:30:00-0500",
-          "date_plain": "2026-12-31",
-          "start_time": "3:30 PM",
-          "scheduled_laps": 0,
-          "actual_laps": 0,
-          "qualifying_date": "",
-          "playoff_round": "",
-          "tv_network": "FOX",
-          "radio": "MRN",
-          "streaming": "SiriusXM",
-          "in_car_camera": "MAX",
-          "tickets_url": "https://www.nascaratcota.com/events/echopark-automotive-grand-prix/tickets/",
-          "race_url": "https://www.nascar.com/live-results/nascar-cup-series/2026-sim-test/",
-          "previous_winner": "William Byron"
         }
       ]
     },
@@ -1837,7 +1816,7 @@
           "date_plain": "2026-06-19",
           "start_time": "7:00 PM",
           "scheduled_laps": 50,
-          "actual_laps": 50,
+          "actual_laps": 53,
           "qualifying_date": "2026-06-19T11:00:00-0400",
           "playoff_round": "",
           "tv_network": "FS1",
@@ -3241,7 +3220,7 @@
       "date_plain": "2026-06-19",
       "start_time": "7:00 PM",
       "scheduled_laps": 50,
-      "actual_laps": 50,
+      "actual_laps": 53,
       "qualifying_date": "2026-06-19T11:00:00-0400",
       "playoff_round": "",
       "tv_network": "FS1",
@@ -3846,7 +3825,7 @@
       "radio": "MRN",
       "streaming": "SiriusXM",
       "in_car_camera": "MAX",
-      "tickets_url": "https://www.tixr.com/promoters/NASCAR",
+      "tickets_url": "https://www.tixr.com/promoters/nascar",
       "race_url": "https://www.nascar.com/live-results/nascar-cup-series/2026-enjoy-illinois-300/",
       "previous_winner": "Denny Hamlin",
       "series": "NASCAR Cup Series",
@@ -4355,29 +4334,6 @@
       "tickets_url": "https://www.homesteadmiamispeedway.com/events/champ/",
       "race_url": "https://www.nascar.com/live-results/nascar-cup-series/2026-nascar-cup-series-championship-race/",
       "previous_winner": "Kyle Larson",
-      "series": "NASCAR Cup Series",
-      "series_key": "nascar_cup_series"
-    },
-    {
-      "race_name": "SIM TEST Lime Rock",
-      "race_id": 5576,
-      "track_name": "Talladega Superspeedway",
-      "track_id": 82,
-      "state": "AL",
-      "date": "2026-12-31T15:30:00-0500",
-      "date_plain": "2026-12-31",
-      "start_time": "3:30 PM",
-      "scheduled_laps": 0,
-      "actual_laps": 0,
-      "qualifying_date": "",
-      "playoff_round": "",
-      "tv_network": "FOX",
-      "radio": "MRN",
-      "streaming": "SiriusXM",
-      "in_car_camera": "MAX",
-      "tickets_url": "https://www.nascaratcota.com/events/echopark-automotive-grand-prix/tickets/",
-      "race_url": "https://www.nascar.com/live-results/nascar-cup-series/2026-sim-test/",
-      "previous_winner": "William Byron",
       "series": "NASCAR Cup Series",
       "series_key": "nascar_cup_series"
     }
