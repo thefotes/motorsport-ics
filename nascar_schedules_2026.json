@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-22T08:18:23.800558",
+  "scraped_at": "2026-06-29T08:00:16.340392",
   "year": 2026,
   "schedules_by_series": {
     "nascar_cup_series": {
@@ -1396,7 +1396,7 @@
           "radio": "MRN",
           "streaming": "SiriusXM",
           "in_car_camera": "",
-          "tickets_url": "https://forms.monday.com/forms/cf2f10190ba6078ebe28df427827d22d?r=use1__;!!O6GqoWc!D91sOL_YyPD4C4BUEC_xSeeYRz0a9HaNrTq_1okL62ruGctOC6XqEzjLOPVl53fNnUdvIeg9wsbtXeb4MFsQ6Q$",
+          "tickets_url": "https://www.tixr.com/promoters/nascar",
           "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nu-way-225-sauced-by-blues-hog/",
           "previous_winner": "Connor Zilisch"
         },
@@ -3802,7 +3802,7 @@
       "radio": "MRN",
       "streaming": "SiriusXM",
       "in_car_camera": "",
-      "tickets_url": "https://forms.monday.com/forms/cf2f10190ba6078ebe28df427827d22d?r=use1__;!!O6GqoWc!D91sOL_YyPD4C4BUEC_xSeeYRz0a9HaNrTq_1okL62ruGctOC6XqEzjLOPVl53fNnUdvIeg9wsbtXeb4MFsQ6Q$",
+      "tickets_url": "https://www.tixr.com/promoters/nascar",
       "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nu-way-225-sauced-by-blues-hog/",
       "previous_winner": "Connor Zilisch",
       "series": "NASCAR Xfinity Series",
