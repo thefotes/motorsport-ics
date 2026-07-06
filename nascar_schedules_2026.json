@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-29T08:00:16.340392",
+  "scraped_at": "2026-07-06T07:45:56.100032",
   "year": 2026,
   "schedules_by_series": {
     "nascar_cup_series": {
@@ -521,8 +521,8 @@
           "date_plain": "2026-07-19",
           "start_time": "7:00 PM",
           "scheduled_laps": 450,
-          "actual_laps": 1,
-          "qualifying_date": "2026-07-18T18:10:00-0400",
+          "actual_laps": 450,
+          "qualifying_date": "",
           "playoff_round": "",
           "tv_network": "TNT",
           "radio": "PRN",
@@ -1254,7 +1254,7 @@
           "previous_winner": "Connor Zilisch"
         },
         {
-          "race_name": "NASCAR O'Reilly Auto Parts Series Race at Chicagoland",
+          "race_name": "Cuervo 300",
           "race_id": 5651,
           "track_name": "Chicagoland Speedway",
           "track_id": 39,
@@ -1263,7 +1263,7 @@
           "date_plain": "2026-07-04",
           "start_time": "5:30 PM",
           "scheduled_laps": 200,
-          "actual_laps": 200,
+          "actual_laps": 201,
           "qualifying_date": "2026-07-04T12:30:00-0400",
           "playoff_round": "",
           "tv_network": "CW",
@@ -1271,7 +1271,7 @@
           "streaming": "SiriusXM",
           "in_car_camera": "",
           "tickets_url": "https://www.chicagolandspeedway.com/events/nascar-cup-series/",
-          "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-chicagoland/",
+          "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-cuervo-300/",
           "previous_winner": ""
         },
         {
@@ -1859,7 +1859,7 @@
           "start_time": "12:30 PM",
           "scheduled_laps": 250,
           "actual_laps": 250,
-          "qualifying_date": "2026-07-17T15:05:00-0400",
+          "qualifying_date": "",
           "playoff_round": "",
           "tv_network": "FS1",
           "radio": "NRN",
@@ -1954,7 +1954,7 @@
           "previous_winner": "Layne Riggs"
         },
         {
-          "race_name": "NASCAR CRAFTSMAN Truck Series Playoff Race at Kansas",
+          "race_name": "Race to Stop Suicide 200",
           "race_id": 5675,
           "track_name": "Kansas Speedway",
           "track_id": 41,
@@ -1971,7 +1971,7 @@
           "streaming": "SiriusXM",
           "in_car_camera": "",
           "tickets_url": "https://www.kansasspeedway.com/calendar-2/",
-          "race_url": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-ncts-playoff-race-at-kansas/",
+          "race_url": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-race-to-stop-suicide-200-at-kansas/",
           "previous_winner": "Carson Hocevar"
         },
         {
@@ -3326,7 +3326,7 @@
       "series_key": "nascar_cup_series"
     },
     {
-      "race_name": "NASCAR O'Reilly Auto Parts Series Race at Chicagoland",
+      "race_name": "Cuervo 300",
       "race_id": 5651,
       "track_name": "Chicagoland Speedway",
       "track_id": 39,
@@ -3335,7 +3335,7 @@
       "date_plain": "2026-07-04",
       "start_time": "5:30 PM",
       "scheduled_laps": 200,
-      "actual_laps": 200,
+      "actual_laps": 201,
       "qualifying_date": "2026-07-04T12:30:00-0400",
       "playoff_round": "",
       "tv_network": "CW",
@@ -3343,7 +3343,7 @@
       "streaming": "SiriusXM",
       "in_car_camera": "",
       "tickets_url": "https://www.chicagolandspeedway.com/events/nascar-cup-series/",
-      "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-chicagoland/",
+      "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-cuervo-300/",
       "previous_winner": "",
       "series": "NASCAR Xfinity Series",
       "series_key": "xfinity_series"
@@ -3451,7 +3451,7 @@
       "start_time": "12:30 PM",
       "scheduled_laps": 250,
       "actual_laps": 250,
-      "qualifying_date": "2026-07-17T15:05:00-0400",
+      "qualifying_date": "",
       "playoff_round": "",
       "tv_network": "FS1",
       "radio": "NRN",
@@ -3473,8 +3473,8 @@
       "date_plain": "2026-07-19",
       "start_time": "7:00 PM",
       "scheduled_laps": 450,
-      "actual_laps": 1,
-      "qualifying_date": "2026-07-18T18:10:00-0400",
+      "actual_laps": 450,
+      "qualifying_date": "",
       "playoff_round": "",
       "tv_network": "TNT",
       "radio": "PRN",
@@ -3901,7 +3901,7 @@
       "series_key": "nascar_cup_series"
     },
     {
-      "race_name": "NASCAR CRAFTSMAN Truck Series Playoff Race at Kansas",
+      "race_name": "Race to Stop Suicide 200",
       "race_id": 5675,
       "track_name": "Kansas Speedway",
       "track_id": 41,
@@ -3918,7 +3918,7 @@
       "streaming": "SiriusXM",
       "in_car_camera": "",
       "tickets_url": "https://www.kansasspeedway.com/calendar-2/",
-      "race_url": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-ncts-playoff-race-at-kansas/",
+      "race_url": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-race-to-stop-suicide-200-at-kansas/",
       "previous_winner": "Carson Hocevar",
       "series": "NASCAR Craftsman Truck Series",
       "series_key": "craftsman_truck_series"
