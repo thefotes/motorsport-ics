@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-06T07:45:56.100032",
+  "scraped_at": "2026-07-13T09:37:45.569042",
   "year": 2026,
   "schedules_by_series": {
     "nascar_cup_series": {
@@ -207,7 +207,7 @@
           "start_time": "3:30 PM",
           "scheduled_laps": 400,
           "actual_laps": 400,
-          "qualifying_date": "2026-03-28T13:40:00-0400",
+          "qualifying_date": "2026-10-31T14:10:00-0400",
           "playoff_round": "",
           "tv_network": "FS1",
           "radio": "MRN",
@@ -500,7 +500,7 @@
           "date_plain": "2026-07-12",
           "start_time": "7:00 PM",
           "scheduled_laps": 260,
-          "actual_laps": 260,
+          "actual_laps": 263,
           "qualifying_date": "2026-07-11T16:30:00-0400",
           "playoff_round": "",
           "tv_network": "TNT",
@@ -522,7 +522,7 @@
           "start_time": "7:00 PM",
           "scheduled_laps": 450,
           "actual_laps": 450,
-          "qualifying_date": "",
+          "qualifying_date": "2026-07-18T18:10:00-0400",
           "playoff_round": "",
           "tv_network": "TNT",
           "radio": "PRN",
@@ -991,7 +991,7 @@
           "start_time": "3:30 PM",
           "scheduled_laps": 250,
           "actual_laps": 250,
-          "qualifying_date": "2026-03-27T17:35:00-0400",
+          "qualifying_date": "2026-10-30T16:05:00-0400",
           "playoff_round": "",
           "tv_network": "CW",
           "radio": "MRN",
@@ -1284,7 +1284,7 @@
           "date_plain": "2026-07-11",
           "start_time": "7:00 PM",
           "scheduled_laps": 163,
-          "actual_laps": 163,
+          "actual_laps": 172,
           "qualifying_date": "2026-07-11T11:00:00-0400",
           "playoff_round": "",
           "tv_network": "CW",
@@ -1293,7 +1293,7 @@
           "in_car_camera": "",
           "tickets_url": "https://www.echoparkspeedway.com/events/quaker-state-400/?utm_source=ams&utm_medium=web&utm_campaign=EPNas26s&cfc=ams_web_EPNas26s",
           "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-focused-health-250-echopark/",
-          "previous_winner": "Nick Sanchez"
+          "previous_winner": ""
         },
         {
           "race_name": "NASCAR O'Reilly Auto Parts Series Race at Indianapolis",
@@ -1338,7 +1338,7 @@
           "previous_winner": "Sam Mayer"
         },
         {
-          "race_name": "Wawa 250 Powered by Coca-Cola",
+          "race_name": "Winn-Dixie 250 Powered by Coca-Cola",
           "race_id": 5657,
           "track_name": "Daytona International Speedway",
           "track_id": 105,
@@ -1355,7 +1355,7 @@
           "streaming": "SiriusXM",
           "in_car_camera": "",
           "tickets_url": "https://www.daytonainternationalspeedway.com/event-calendar/",
-          "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-wawa-250-powered-by-coca-cola/",
+          "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-winn-dixie-250-powered-by-coca-cola/",
           "previous_winner": "Connor Zilisch"
         },
         {
@@ -1380,7 +1380,7 @@
           "previous_winner": ""
         },
         {
-          "race_name": "Nu Way 225 Sauced by Blues Hog",
+          "race_name": "Nu Way 225 Powered by Bobcat and Sauced by Blues Hog",
           "race_id": 5659,
           "track_name": "World Wide Technology Raceway",
           "track_id": 45,
@@ -1859,7 +1859,7 @@
           "start_time": "12:30 PM",
           "scheduled_laps": 250,
           "actual_laps": 250,
-          "qualifying_date": "",
+          "qualifying_date": "2026-07-17T15:05:00-0400",
           "playoff_round": "",
           "tv_network": "FS1",
           "radio": "NRN",
@@ -2048,7 +2048,7 @@
           "start_time": "6:00 PM",
           "scheduled_laps": 200,
           "actual_laps": 200,
-          "qualifying_date": "",
+          "qualifying_date": "2026-10-30T13:35:00-0400",
           "playoff_round": "",
           "tv_network": "FS1",
           "radio": "NRN",
@@ -2531,7 +2531,7 @@
       "start_time": "3:30 PM",
       "scheduled_laps": 250,
       "actual_laps": 250,
-      "qualifying_date": "2026-03-27T17:35:00-0400",
+      "qualifying_date": "2026-10-30T16:05:00-0400",
       "playoff_round": "",
       "tv_network": "CW",
       "radio": "MRN",
@@ -2554,7 +2554,7 @@
       "start_time": "3:30 PM",
       "scheduled_laps": 400,
       "actual_laps": 400,
-      "qualifying_date": "2026-03-28T13:40:00-0400",
+      "qualifying_date": "2026-10-31T14:10:00-0400",
       "playoff_round": "",
       "tv_network": "FS1",
       "radio": "MRN",
@@ -3381,7 +3381,7 @@
       "date_plain": "2026-07-11",
       "start_time": "7:00 PM",
       "scheduled_laps": 163,
-      "actual_laps": 163,
+      "actual_laps": 172,
       "qualifying_date": "2026-07-11T11:00:00-0400",
       "playoff_round": "",
       "tv_network": "CW",
@@ -3390,7 +3390,7 @@
       "in_car_camera": "",
       "tickets_url": "https://www.echoparkspeedway.com/events/quaker-state-400/?utm_source=ams&utm_medium=web&utm_campaign=EPNas26s&cfc=ams_web_EPNas26s",
       "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-focused-health-250-echopark/",
-      "previous_winner": "Nick Sanchez",
+      "previous_winner": "",
       "series": "NASCAR Xfinity Series",
       "series_key": "xfinity_series"
     },
@@ -3427,7 +3427,7 @@
       "date_plain": "2026-07-12",
       "start_time": "7:00 PM",
       "scheduled_laps": 260,
-      "actual_laps": 260,
+      "actual_laps": 263,
       "qualifying_date": "2026-07-11T16:30:00-0400",
       "playoff_round": "",
       "tv_network": "TNT",
@@ -3451,7 +3451,7 @@
       "start_time": "12:30 PM",
       "scheduled_laps": 250,
       "actual_laps": 250,
-      "qualifying_date": "",
+      "qualifying_date": "2026-07-17T15:05:00-0400",
       "playoff_round": "",
       "tv_network": "FS1",
       "radio": "NRN",
@@ -3474,7 +3474,7 @@
       "start_time": "7:00 PM",
       "scheduled_laps": 450,
       "actual_laps": 450,
-      "qualifying_date": "",
+      "qualifying_date": "2026-07-18T18:10:00-0400",
       "playoff_round": "",
       "tv_network": "TNT",
       "radio": "PRN",
@@ -3694,7 +3694,7 @@
       "series_key": "nascar_cup_series"
     },
     {
-      "race_name": "Wawa 250 Powered by Coca-Cola",
+      "race_name": "Winn-Dixie 250 Powered by Coca-Cola",
       "race_id": 5657,
       "track_name": "Daytona International Speedway",
       "track_id": 105,
@@ -3711,7 +3711,7 @@
       "streaming": "SiriusXM",
       "in_car_camera": "",
       "tickets_url": "https://www.daytonainternationalspeedway.com/event-calendar/",
-      "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-wawa-250-powered-by-coca-cola/",
+      "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-winn-dixie-250-powered-by-coca-cola/",
       "previous_winner": "Connor Zilisch",
       "series": "NASCAR Xfinity Series",
       "series_key": "xfinity_series"
@@ -3786,7 +3786,7 @@
       "series_key": "nascar_cup_series"
     },
     {
-      "race_name": "Nu Way 225 Sauced by Blues Hog",
+      "race_name": "Nu Way 225 Powered by Bobcat and Sauced by Blues Hog",
       "race_id": 5659,
       "track_name": "World Wide Technology Raceway",
       "track_id": 45,
@@ -4210,7 +4210,7 @@
       "start_time": "6:00 PM",
       "scheduled_laps": 200,
       "actual_laps": 200,
-      "qualifying_date": "",
+      "qualifying_date": "2026-10-30T13:35:00-0400",
       "playoff_round": "",
       "tv_network": "FS1",
       "radio": "NRN",
