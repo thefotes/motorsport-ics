@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-13T09:37:45.569042",
+  "scraped_at": "2026-07-20T09:25:29.995096",
   "year": 2026,
   "schedules_by_series": {
     "nascar_cup_series": {
@@ -1296,7 +1296,7 @@
           "previous_winner": ""
         },
         {
-          "race_name": "NASCAR O'Reilly Auto Parts Series Race at Indianapolis",
+          "race_name": "Pennzoil 250 Presented by Take 5 Oil Change",
           "race_id": 5654,
           "track_name": "Indianapolis Motor Speedway",
           "track_id": 123,
@@ -1313,7 +1313,7 @@
           "streaming": "SiriusXM",
           "in_car_camera": "",
           "tickets_url": "https://www.indianapolismotorspeedway.com/events/brickyard/buy-tickets/tickets-saturday",
-          "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-indianapolis/",
+          "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-pennzoil-250-presented-by-take-5-oil-change/",
           "previous_winner": "Connor Zilisch"
         },
         {
@@ -1849,7 +1849,7 @@
           "previous_winner": ""
         },
         {
-          "race_name": "Faith Fest 250",
+          "race_name": "FaithFest 250",
           "race_id": 5676,
           "track_name": "North Wilkesboro Speedway",
           "track_id": 177,
@@ -3441,7 +3441,7 @@
       "series_key": "nascar_cup_series"
     },
     {
-      "race_name": "Faith Fest 250",
+      "race_name": "FaithFest 250",
       "race_id": 5676,
       "track_name": "North Wilkesboro Speedway",
       "track_id": 177,
@@ -3510,7 +3510,7 @@
       "series_key": "craftsman_truck_series"
     },
     {
-      "race_name": "NASCAR O'Reilly Auto Parts Series Race at Indianapolis",
+      "race_name": "Pennzoil 250 Presented by Take 5 Oil Change",
       "race_id": 5654,
       "track_name": "Indianapolis Motor Speedway",
       "track_id": 123,
@@ -3527,7 +3527,7 @@
       "streaming": "SiriusXM",
       "in_car_camera": "",
       "tickets_url": "https://www.indianapolismotorspeedway.com/events/brickyard/buy-tickets/tickets-saturday",
-      "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-indianapolis/",
+      "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-pennzoil-250-presented-by-take-5-oil-change/",
       "previous_winner": "Connor Zilisch",
       "series": "NASCAR Xfinity Series",
       "series_key": "xfinity_series"
