@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-27T10:00:50.385063",
+  "scraped_at": "2026-08-03T09:56:08.090029",
   "year": 2026,
   "schedules_by_series": {
     "nascar_cup_series": {
@@ -1317,7 +1317,7 @@
           "previous_winner": "Connor Zilisch"
         },
         {
-          "race_name": "NASCAR O'Reilly Auto Parts Series Race at Iowa",
+          "race_name": "HyVee Perks 250",
           "race_id": 5655,
           "track_name": "Iowa Speedway",
           "track_id": 206,
@@ -1332,9 +1332,9 @@
           "tv_network": "CW",
           "radio": "MRN",
           "streaming": "SiriusXM",
-          "in_car_camera": "",
+          "in_car_camera": "ESPN",
           "tickets_url": "https://www.iowaspeedway.com/events/summer-cup-series-race/",
-          "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-iowa/",
+          "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-hyvee-perks-250/",
           "previous_winner": "Sam Mayer"
         },
         {
@@ -1353,7 +1353,7 @@
           "tv_network": "CW",
           "radio": "MRN",
           "streaming": "SiriusXM",
-          "in_car_camera": "",
+          "in_car_camera": "ESPN",
           "tickets_url": "https://www.daytonainternationalspeedway.com/event-calendar/",
           "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-winn-dixie-250-powered-by-coca-cola/",
           "previous_winner": "Connor Zilisch"
@@ -1374,7 +1374,7 @@
           "tv_network": "CW",
           "radio": "MRN",
           "streaming": "SiriusXM",
-          "in_car_camera": "",
+          "in_car_camera": "ESPN",
           "tickets_url": "https://www.darlingtonraceway.com/event-calendar/",
           "race_url": "https://www.nascar.com/live-results/fleetio-200/",
           "previous_winner": ""
@@ -1395,7 +1395,7 @@
           "tv_network": "CW",
           "radio": "MRN",
           "streaming": "SiriusXM",
-          "in_car_camera": "",
+          "in_car_camera": "ESPN",
           "tickets_url": "https://www.tixr.com/promoters/nascar",
           "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nu-way-225-sauced-by-blues-hog/",
           "previous_winner": "Connor Zilisch"
@@ -1416,7 +1416,7 @@
           "tv_network": "CW",
           "radio": "PRN",
           "streaming": "SiriusXM",
-          "in_car_camera": "",
+          "in_car_camera": "ESPN",
           "tickets_url": "https://www.bristolmotorspeedway.com/events/food-city-300/__;!!O6GqoWc!Dkdg0DanXI-g6NP9B7StVh_eHk7r7yS7qq4G2OjvYaagSkWy0CnlZR7kAy-IG7388xLockUTOlVlFz8NLKdL$",
           "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-food-city-300/",
           "previous_winner": ""
@@ -1437,7 +1437,7 @@
           "tv_network": "CW",
           "radio": "PRN",
           "streaming": "SiriusXM",
-          "in_car_camera": "",
+          "in_car_camera": "ESPN",
           "tickets_url": "https://www.lvms.com/events/south-point-400-2026/",
           "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-focused-health-302/",
           "previous_winner": ""
@@ -1458,7 +1458,7 @@
           "tv_network": "CW",
           "radio": "PRN",
           "streaming": "SiriusXM",
-          "in_car_camera": "",
+          "in_car_camera": "ESPN",
           "tickets_url": "https://www.ticketmaster.com/event/2D00633E87521D5F?_gl=1*ahdh7f*_ga*MjA5NjAwMDMwMS4xNzYzMDUwNDEw*_ga_MHX2380L2B*czE3NjMwNTA0MDkkbzEkZzEkdDE3NjMwNTA0MTYkajUzJGwwJGgw",
           "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-blue-cross-nc-250/",
           "previous_winner": "Connor Zilisch"
@@ -1479,7 +1479,7 @@
           "tv_network": "CW",
           "radio": "MRN",
           "streaming": "SiriusXM",
-          "in_car_camera": "",
+          "in_car_camera": "ESPN",
           "tickets_url": "https://www.phoenixraceway.com/fall-waitlist/",
           "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-phoenix-2/",
           "previous_winner": "Jesse Love"
@@ -1500,7 +1500,7 @@
           "tv_network": "CW",
           "radio": "MRN",
           "streaming": "SiriusXM",
-          "in_car_camera": "",
+          "in_car_camera": "ESPN",
           "tickets_url": "https://www.talladegasuperspeedway.com/schedule/",
           "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/the-progress-group-250/",
           "previous_winner": "Austin Hill"
@@ -1521,7 +1521,7 @@
           "tv_network": "CW",
           "radio": "MRN",
           "streaming": "SiriusXM",
-          "in_car_camera": "",
+          "in_car_camera": "ESPN",
           "tickets_url": "https://www.martinsvillespeedway.com/event-calendar/",
           "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-martinsville-2/",
           "previous_winner": "Taylor Gray"
@@ -1542,7 +1542,7 @@
           "tv_network": "CW",
           "radio": "MRN",
           "streaming": "SiriusXM",
-          "in_car_camera": "",
+          "in_car_camera": "ESPN",
           "tickets_url": "https://www.homesteadmiamispeedway.com/events/champ/",
           "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-championship-race/",
           "previous_winner": "Justin Allgaier"
@@ -1891,7 +1891,7 @@
           "previous_winner": "Layne Riggs"
         },
         {
-          "race_name": "NASCAR Craftsman Truck Series Race at Richmond",
+          "race_name": "Black's Tire 250 presented by BTS Rewards",
           "race_id": 5684,
           "track_name": "Richmond Raceway",
           "track_id": 26,
@@ -1908,7 +1908,7 @@
           "streaming": "SiriusXM",
           "in_car_camera": "",
           "tickets_url": "https://www.richmondraceway.com/events/cup-ticket-options/",
-          "race_url": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-eero-250/",
+          "race_url": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-blacks-tire-250-presented-by-bts-rewards/",
           "previous_winner": ""
         },
         {
@@ -3556,7 +3556,7 @@
       "series_key": "nascar_cup_series"
     },
     {
-      "race_name": "NASCAR O'Reilly Auto Parts Series Race at Iowa",
+      "race_name": "HyVee Perks 250",
       "race_id": 5655,
       "track_name": "Iowa Speedway",
       "track_id": 206,
@@ -3571,9 +3571,9 @@
       "tv_network": "CW",
       "radio": "MRN",
       "streaming": "SiriusXM",
-      "in_car_camera": "",
+      "in_car_camera": "ESPN",
       "tickets_url": "https://www.iowaspeedway.com/events/summer-cup-series-race/",
-      "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-iowa/",
+      "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-hyvee-perks-250/",
       "previous_winner": "Sam Mayer",
       "series": "NASCAR Xfinity Series",
       "series_key": "xfinity_series"
@@ -3602,7 +3602,7 @@
       "series_key": "nascar_cup_series"
     },
     {
-      "race_name": "NASCAR Craftsman Truck Series Race at Richmond",
+      "race_name": "Black's Tire 250 presented by BTS Rewards",
       "race_id": 5684,
       "track_name": "Richmond Raceway",
       "track_id": 26,
@@ -3619,7 +3619,7 @@
       "streaming": "SiriusXM",
       "in_car_camera": "",
       "tickets_url": "https://www.richmondraceway.com/events/cup-ticket-options/",
-      "race_url": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-eero-250/",
+      "race_url": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-blacks-tire-250-presented-by-bts-rewards/",
       "previous_winner": "",
       "series": "NASCAR Craftsman Truck Series",
       "series_key": "craftsman_truck_series"
@@ -3709,7 +3709,7 @@
       "tv_network": "CW",
       "radio": "MRN",
       "streaming": "SiriusXM",
-      "in_car_camera": "",
+      "in_car_camera": "ESPN",
       "tickets_url": "https://www.daytonainternationalspeedway.com/event-calendar/",
       "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-winn-dixie-250-powered-by-coca-cola/",
       "previous_winner": "Connor Zilisch",
@@ -3755,7 +3755,7 @@
       "tv_network": "CW",
       "radio": "MRN",
       "streaming": "SiriusXM",
-      "in_car_camera": "",
+      "in_car_camera": "ESPN",
       "tickets_url": "https://www.darlingtonraceway.com/event-calendar/",
       "race_url": "https://www.nascar.com/live-results/fleetio-200/",
       "previous_winner": "",
@@ -3801,7 +3801,7 @@
       "tv_network": "CW",
       "radio": "MRN",
       "streaming": "SiriusXM",
-      "in_car_camera": "",
+      "in_car_camera": "ESPN",
       "tickets_url": "https://www.tixr.com/promoters/nascar",
       "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nu-way-225-sauced-by-blues-hog/",
       "previous_winner": "Connor Zilisch",
@@ -3870,7 +3870,7 @@
       "tv_network": "CW",
       "radio": "PRN",
       "streaming": "SiriusXM",
-      "in_car_camera": "",
+      "in_car_camera": "ESPN",
       "tickets_url": "https://www.bristolmotorspeedway.com/events/food-city-300/__;!!O6GqoWc!Dkdg0DanXI-g6NP9B7StVh_eHk7r7yS7qq4G2OjvYaagSkWy0CnlZR7kAy-IG7388xLockUTOlVlFz8NLKdL$",
       "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-food-city-300/",
       "previous_winner": "",
@@ -3962,7 +3962,7 @@
       "tv_network": "CW",
       "radio": "PRN",
       "streaming": "SiriusXM",
-      "in_car_camera": "",
+      "in_car_camera": "ESPN",
       "tickets_url": "https://www.lvms.com/events/south-point-400-2026/",
       "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-focused-health-302/",
       "previous_winner": "",
@@ -4031,7 +4031,7 @@
       "tv_network": "CW",
       "radio": "PRN",
       "streaming": "SiriusXM",
-      "in_car_camera": "",
+      "in_car_camera": "ESPN",
       "tickets_url": "https://www.ticketmaster.com/event/2D00633E87521D5F?_gl=1*ahdh7f*_ga*MjA5NjAwMDMwMS4xNzYzMDUwNDEw*_ga_MHX2380L2B*czE3NjMwNTA0MDkkbzEkZzEkdDE3NjMwNTA0MTYkajUzJGwwJGgw",
       "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-blue-cross-nc-250/",
       "previous_winner": "Connor Zilisch",
@@ -4100,7 +4100,7 @@
       "tv_network": "CW",
       "radio": "MRN",
       "streaming": "SiriusXM",
-      "in_car_camera": "",
+      "in_car_camera": "ESPN",
       "tickets_url": "https://www.phoenixraceway.com/fall-waitlist/",
       "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-phoenix-2/",
       "previous_winner": "Jesse Love",
@@ -4169,7 +4169,7 @@
       "tv_network": "CW",
       "radio": "MRN",
       "streaming": "SiriusXM",
-      "in_car_camera": "",
+      "in_car_camera": "ESPN",
       "tickets_url": "https://www.talladegasuperspeedway.com/schedule/",
       "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/the-progress-group-250/",
       "previous_winner": "Austin Hill",
@@ -4238,7 +4238,7 @@
       "tv_network": "CW",
       "radio": "MRN",
       "streaming": "SiriusXM",
-      "in_car_camera": "",
+      "in_car_camera": "ESPN",
       "tickets_url": "https://www.martinsvillespeedway.com/event-calendar/",
       "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-martinsville-2/",
       "previous_winner": "Taylor Gray",
@@ -4307,7 +4307,7 @@
       "tv_network": "CW",
       "radio": "MRN",
       "streaming": "SiriusXM",
-      "in_car_camera": "",
+      "in_car_camera": "ESPN",
       "tickets_url": "https://www.homesteadmiamispeedway.com/events/champ/",
       "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-championship-race/",
       "previous_winner": "Justin Allgaier",
