@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-17T07:05:04.882085",
+  "scraped_at": "2026-08-24T07:08:13.715003",
   "year": 2026,
   "schedules_by_series": {
     "nascar_cup_series": {
@@ -601,9 +601,9 @@
           "track_name": "New Hampshire Motor Speedway",
           "track_id": 138,
           "state": "NH",
-          "date": "2026-08-23T15:00:00-0400",
+          "date": "2026-08-23T14:00:00-0400",
           "date_plain": "2026-08-23",
-          "start_time": "3:00 PM",
+          "start_time": "2:00 PM",
           "scheduled_laps": 301,
           "actual_laps": 301,
           "qualifying_date": "2026-08-22T11:40:00-0400",
@@ -1464,7 +1464,7 @@
           "previous_winner": "Connor Zilisch"
         },
         {
-          "race_name": "NASCAR O'Reilly Auto Parts Series Playoff Race at Phoenix",
+          "race_name": "NASCAR O'Reilly Auto Parts Series Chase Race at Phoenix",
           "race_id": 5666,
           "track_name": "Phoenix Raceway",
           "track_id": 84,
@@ -1506,7 +1506,7 @@
           "previous_winner": "Austin Hill"
         },
         {
-          "race_name": "NASCAR O'Reilly Auto Parts Series Playoff Race at Martinsville",
+          "race_name": "NASCAR O'Reilly Auto Parts Series Chase Race at Martinsville",
           "race_id": 5665,
           "track_name": "Martinsville Speedway",
           "track_id": 22,
@@ -1921,7 +1921,7 @@
           "date_plain": "2026-08-22",
           "start_time": "1:30 PM",
           "scheduled_laps": 175,
-          "actual_laps": 175,
+          "actual_laps": 189,
           "qualifying_date": "2026-08-21T17:05:00-0400",
           "playoff_round": "",
           "tv_network": "FS1",
@@ -1996,7 +1996,7 @@
           "previous_winner": ""
         },
         {
-          "race_name": "NASCAR CRAFTSMAN Truck Series Playoff Race at Phoenix",
+          "race_name": "NASCAR CRAFTSMAN Truck Series Chase Race at Phoenix",
           "race_id": 5691,
           "track_name": "Phoenix Raceway",
           "track_id": 84,
@@ -2038,7 +2038,7 @@
           "previous_winner": "Gio Ruggiero"
         },
         {
-          "race_name": "NASCAR CRAFTSMAN Truck Series Playoff Race at Martinsville",
+          "race_name": "NASCAR CRAFTSMAN Truck Series Chase Race at Martinsville",
           "race_id": 5671,
           "track_name": "Martinsville Speedway",
           "track_id": 22,
@@ -3657,7 +3657,7 @@
       "date_plain": "2026-08-22",
       "start_time": "1:30 PM",
       "scheduled_laps": 175,
-      "actual_laps": 175,
+      "actual_laps": 189,
       "qualifying_date": "2026-08-21T17:05:00-0400",
       "playoff_round": "",
       "tv_network": "FS1",
@@ -3676,9 +3676,9 @@
       "track_name": "New Hampshire Motor Speedway",
       "track_id": 138,
       "state": "NH",
-      "date": "2026-08-23T15:00:00-0400",
+      "date": "2026-08-23T14:00:00-0400",
       "date_plain": "2026-08-23",
-      "start_time": "3:00 PM",
+      "start_time": "2:00 PM",
       "scheduled_laps": 301,
       "actual_laps": 301,
       "qualifying_date": "2026-08-22T11:40:00-0400",
@@ -4062,7 +4062,7 @@
       "series_key": "nascar_cup_series"
     },
     {
-      "race_name": "NASCAR CRAFTSMAN Truck Series Playoff Race at Phoenix",
+      "race_name": "NASCAR CRAFTSMAN Truck Series Chase Race at Phoenix",
       "race_id": 5691,
       "track_name": "Phoenix Raceway",
       "track_id": 84,
@@ -4085,7 +4085,7 @@
       "series_key": "craftsman_truck_series"
     },
     {
-      "race_name": "NASCAR O'Reilly Auto Parts Series Playoff Race at Phoenix",
+      "race_name": "NASCAR O'Reilly Auto Parts Series Chase Race at Phoenix",
       "race_id": 5666,
       "track_name": "Phoenix Raceway",
       "track_id": 84,
@@ -4200,7 +4200,7 @@
       "series_key": "nascar_cup_series"
     },
     {
-      "race_name": "NASCAR CRAFTSMAN Truck Series Playoff Race at Martinsville",
+      "race_name": "NASCAR CRAFTSMAN Truck Series Chase Race at Martinsville",
       "race_id": 5671,
       "track_name": "Martinsville Speedway",
       "track_id": 22,
@@ -4223,7 +4223,7 @@
       "series_key": "craftsman_truck_series"
     },
     {
-      "race_name": "NASCAR O'Reilly Auto Parts Series Playoff Race at Martinsville",
+      "race_name": "NASCAR O'Reilly Auto Parts Series Chase Race at Martinsville",
       "race_id": 5665,
       "track_name": "Martinsville Speedway",
       "track_id": 22,
