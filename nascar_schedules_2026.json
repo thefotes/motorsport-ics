@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-07T12:06:58.189518",
+  "scraped_at": "2026-09-14T12:22:56.998206",
   "year": 2026,
   "schedules_by_series": {
     "nascar_cup_series": {
@@ -668,7 +668,7 @@
           "date_plain": "2026-09-13",
           "start_time": "3:00 PM",
           "scheduled_laps": 240,
-          "actual_laps": 240,
+          "actual_laps": 247,
           "qualifying_date": "2026-09-12T15:35:00-0400",
           "playoff_round": "",
           "tv_network": "USA",
@@ -1527,7 +1527,7 @@
           "previous_winner": "Austin Hill"
         },
         {
-          "race_name": "NOAPS Chase Race at Martinsville",
+          "race_name": "NASCAR O'Reilly Auto Parts Series Chase Race at Martinsville",
           "race_id": 5665,
           "track_name": "Martinsville Speedway",
           "track_id": 22,
@@ -3839,7 +3839,7 @@
       "date_plain": "2026-09-13",
       "start_time": "3:00 PM",
       "scheduled_laps": 240,
-      "actual_laps": 240,
+      "actual_laps": 247,
       "qualifying_date": "2026-09-12T15:35:00-0400",
       "playoff_round": "",
       "tv_network": "USA",
@@ -4267,7 +4267,7 @@
       "series_key": "craftsman_truck_series"
     },
     {
-      "race_name": "NOAPS Chase Race at Martinsville",
+      "race_name": "NASCAR O'Reilly Auto Parts Series Chase Race at Martinsville",
       "race_id": 5665,
       "track_name": "Martinsville Speedway",
       "track_id": 22,
