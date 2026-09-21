@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-14T12:22:56.998206",
+  "scraped_at": "2026-09-21T12:30:08.468681",
   "year": 2026,
   "schedules_by_series": {
     "nascar_cup_series": {
@@ -1410,7 +1410,7 @@
           "date_plain": "2026-09-18",
           "start_time": "7:30 PM",
           "scheduled_laps": 300,
-          "actual_laps": 300,
+          "actual_laps": 305,
           "qualifying_date": "2026-09-18T15:05:00-0400",
           "playoff_round": "",
           "tv_network": "CW",
@@ -1996,7 +1996,7 @@
           "previous_winner": "Carson Hocevar"
         },
         {
-          "race_name": "Ecosave 250",
+          "race_name": "Ecosave 200",
           "race_id": 5688,
           "track_name": "Charlotte Motor Speedway",
           "track_id": 162,
@@ -2013,7 +2013,7 @@
           "streaming": "SiriusXM",
           "in_car_camera": "",
           "tickets_url": "https://www.charlottemotorspeedway.com/events/ecosave-250/",
-          "race_url": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-ecosave-250/",
+          "race_url": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-ecosave-200-2/",
           "previous_winner": ""
         },
         {
@@ -3885,7 +3885,7 @@
       "date_plain": "2026-09-18",
       "start_time": "7:30 PM",
       "scheduled_laps": 300,
-      "actual_laps": 300,
+      "actual_laps": 305,
       "qualifying_date": "2026-09-18T15:05:00-0400",
       "playoff_round": "",
       "tv_network": "CW",
@@ -4037,7 +4037,7 @@
       "series_key": "xfinity_series"
     },
     {
-      "race_name": "Ecosave 250",
+      "race_name": "Ecosave 200",
       "race_id": 5688,
       "track_name": "Charlotte Motor Speedway",
       "track_id": 162,
@@ -4054,7 +4054,7 @@
       "streaming": "SiriusXM",
       "in_car_camera": "",
       "tickets_url": "https://www.charlottemotorspeedway.com/events/ecosave-250/",
-      "race_url": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-ecosave-250/",
+      "race_url": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-ecosave-200-2/",
       "previous_winner": "",
       "series": "NASCAR Craftsman Truck Series",
       "series_key": "craftsman_truck_series"
