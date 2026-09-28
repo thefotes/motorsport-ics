@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-21T12:30:08.468681",
+  "scraped_at": "2026-09-28T13:28:23.909207",
   "year": 2026,
   "schedules_by_series": {
     "nascar_cup_series": {
@@ -936,7 +936,7 @@
           "in_car_camera": "",
           "tickets_url": "https://www.phoenixraceway.com/march-xfinity/",
           "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-govx-200/",
-          "previous_winner": ""
+          "previous_winner": "Aric Almirola"
         },
         {
           "race_name": "The LiUNA!",
@@ -1419,7 +1419,7 @@
           "in_car_camera": "",
           "tickets_url": "https://www.bristolmotorspeedway.com/events/food-city-300/__;!!O6GqoWc!Dkdg0DanXI-g6NP9B7StVh_eHk7r7yS7qq4G2OjvYaagSkWy0CnlZR7kAy-IG7388xLockUTOlVlFz8NLKdL$",
           "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-food-city-300/",
-          "previous_winner": ""
+          "previous_winner": "Aric Almirola"
         },
         {
           "race_name": "Focused Health 302",
@@ -1440,7 +1440,7 @@
           "in_car_camera": "",
           "tickets_url": "https://www.lvms.com/events/south-point-400-2026/",
           "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-focused-health-302/",
-          "previous_winner": ""
+          "previous_winner": "Aric Almirola"
         },
         {
           "race_name": "NOAPS Chase Race at Las Vegas",
@@ -1485,7 +1485,7 @@
           "previous_winner": "Connor Zilisch"
         },
         {
-          "race_name": "NASCAR O'Reilly Auto Parts Series Chase Race at Phoenix",
+          "race_name": "Timberland PRO 200",
           "race_id": 5666,
           "track_name": "Phoenix Raceway",
           "track_id": 84,
@@ -1502,7 +1502,7 @@
           "streaming": "SiriusXM",
           "in_car_camera": "",
           "tickets_url": "https://www.phoenixraceway.com/fall-waitlist/",
-          "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-phoenix-2/",
+          "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-timberland-pro-200-at-phoenix/",
           "previous_winner": "Jesse Love"
         },
         {
@@ -1987,7 +1987,7 @@
           "actual_laps": 134,
           "qualifying_date": "2026-09-25T17:05:00-0400",
           "playoff_round": "",
-          "tv_network": "FS1",
+          "tv_network": "FS2",
           "radio": "NRN",
           "streaming": "SiriusXM",
           "in_car_camera": "",
@@ -2399,7 +2399,7 @@
       "in_car_camera": "",
       "tickets_url": "https://www.phoenixraceway.com/march-xfinity/",
       "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-govx-200/",
-      "previous_winner": "",
+      "previous_winner": "Aric Almirola",
       "series": "NASCAR Xfinity Series",
       "series_key": "xfinity_series"
     },
@@ -3894,7 +3894,7 @@
       "in_car_camera": "",
       "tickets_url": "https://www.bristolmotorspeedway.com/events/food-city-300/__;!!O6GqoWc!Dkdg0DanXI-g6NP9B7StVh_eHk7r7yS7qq4G2OjvYaagSkWy0CnlZR7kAy-IG7388xLockUTOlVlFz8NLKdL$",
       "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-food-city-300/",
-      "previous_winner": "",
+      "previous_winner": "Aric Almirola",
       "series": "NASCAR Xfinity Series",
       "series_key": "xfinity_series"
     },
@@ -3934,7 +3934,7 @@
       "actual_laps": 134,
       "qualifying_date": "2026-09-25T17:05:00-0400",
       "playoff_round": "",
-      "tv_network": "FS1",
+      "tv_network": "FS2",
       "radio": "NRN",
       "streaming": "SiriusXM",
       "in_car_camera": "",
@@ -3986,7 +3986,7 @@
       "in_car_camera": "",
       "tickets_url": "https://www.lvms.com/events/south-point-400-2026/",
       "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-focused-health-302/",
-      "previous_winner": "",
+      "previous_winner": "Aric Almirola",
       "series": "NASCAR Xfinity Series",
       "series_key": "xfinity_series"
     },
@@ -4129,7 +4129,7 @@
       "series_key": "craftsman_truck_series"
     },
     {
-      "race_name": "NASCAR O'Reilly Auto Parts Series Chase Race at Phoenix",
+      "race_name": "Timberland PRO 200",
       "race_id": 5666,
       "track_name": "Phoenix Raceway",
       "track_id": 84,
@@ -4146,7 +4146,7 @@
       "streaming": "SiriusXM",
       "in_car_camera": "",
       "tickets_url": "https://www.phoenixraceway.com/fall-waitlist/",
-      "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-noaps-race-at-phoenix-2/",
+      "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nascar-timberland-pro-200-at-phoenix/",
       "previous_winner": "Jesse Love",
       "series": "NASCAR Xfinity Series",
       "series_key": "xfinity_series"
