@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-28T13:28:23.909207",
+  "scraped_at": "2026-10-05T14:11:36.035654",
   "year": 2026,
   "schedules_by_series": {
     "nascar_cup_series": {
@@ -852,7 +852,7 @@
     "xfinity_series": {
       "series_name": "NASCAR Xfinity Series",
       "series_id": 2,
-      "total_races": 34,
+      "total_races": 33,
       "races": [
         {
           "race_name": "United Rentals 300",
@@ -1443,28 +1443,7 @@
           "previous_winner": "Aric Almirola"
         },
         {
-          "race_name": "NOAPS Chase Race at Las Vegas",
-          "race_id": 5764,
-          "track_name": "Las Vegas Motor Speedway",
-          "track_id": 42,
-          "state": "NV",
-          "date": "2026-10-09T00:00:00-0400",
-          "date_plain": "2026-10-09",
-          "start_time": "",
-          "scheduled_laps": 0,
-          "actual_laps": 0,
-          "qualifying_date": "",
-          "playoff_round": "",
-          "tv_network": "CW",
-          "radio": "PRN",
-          "streaming": "SiriusXM",
-          "in_car_camera": "",
-          "tickets_url": "",
-          "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2027-noaps-fall-race-at-las-vegas/",
-          "previous_winner": ""
-        },
-        {
-          "race_name": "Blue Cross NC 250",
+          "race_name": "Blue Cross NC 300",
           "race_id": 5662,
           "track_name": "Charlotte Motor Speedway",
           "track_id": 162,
@@ -1472,8 +1451,8 @@
           "date": "2026-10-10T16:00:00-0400",
           "date_plain": "2026-10-10",
           "start_time": "4:00 PM",
-          "scheduled_laps": 167,
-          "actual_laps": 167,
+          "scheduled_laps": 200,
+          "actual_laps": 200,
           "qualifying_date": "2026-10-10T11:35:00-0400",
           "playoff_round": "",
           "tv_network": "CW",
@@ -1481,7 +1460,7 @@
           "streaming": "SiriusXM",
           "in_car_camera": "",
           "tickets_url": "https://www.ticketmaster.com/event/2D00633E87521D5F?_gl=1*ahdh7f*_ga*MjA5NjAwMDMwMS4xNzYzMDUwNDEw*_ga_MHX2380L2B*czE3NjMwNTA0MDkkbzEkZzEkdDE3NjMwNTA0MTYkajUzJGwwJGgw",
-          "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-blue-cross-nc-250/",
+          "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-blue-cross-nc-300/",
           "previous_winner": "Connor Zilisch"
         },
         {
@@ -4014,29 +3993,6 @@
       "series_key": "nascar_cup_series"
     },
     {
-      "race_name": "NOAPS Chase Race at Las Vegas",
-      "race_id": 5764,
-      "track_name": "Las Vegas Motor Speedway",
-      "track_id": 42,
-      "state": "NV",
-      "date": "2026-10-09T00:00:00-0400",
-      "date_plain": "2026-10-09",
-      "start_time": "",
-      "scheduled_laps": 0,
-      "actual_laps": 0,
-      "qualifying_date": "",
-      "playoff_round": "",
-      "tv_network": "CW",
-      "radio": "PRN",
-      "streaming": "SiriusXM",
-      "in_car_camera": "",
-      "tickets_url": "",
-      "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2027-noaps-fall-race-at-las-vegas/",
-      "previous_winner": "",
-      "series": "NASCAR Xfinity Series",
-      "series_key": "xfinity_series"
-    },
-    {
       "race_name": "Ecosave 200",
       "race_id": 5688,
       "track_name": "Charlotte Motor Speedway",
@@ -4060,7 +4016,7 @@
       "series_key": "craftsman_truck_series"
     },
     {
-      "race_name": "Blue Cross NC 250",
+      "race_name": "Blue Cross NC 300",
       "race_id": 5662,
       "track_name": "Charlotte Motor Speedway",
       "track_id": 162,
@@ -4068,8 +4024,8 @@
       "date": "2026-10-10T16:00:00-0400",
       "date_plain": "2026-10-10",
       "start_time": "4:00 PM",
-      "scheduled_laps": 167,
-      "actual_laps": 167,
+      "scheduled_laps": 200,
+      "actual_laps": 200,
       "qualifying_date": "2026-10-10T11:35:00-0400",
       "playoff_round": "",
       "tv_network": "CW",
@@ -4077,7 +4033,7 @@
       "streaming": "SiriusXM",
       "in_car_camera": "",
       "tickets_url": "https://www.ticketmaster.com/event/2D00633E87521D5F?_gl=1*ahdh7f*_ga*MjA5NjAwMDMwMS4xNzYzMDUwNDEw*_ga_MHX2380L2B*czE3NjMwNTA0MDkkbzEkZzEkdDE3NjMwNTA0MTYkajUzJGwwJGgw",
-      "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-blue-cross-nc-250/",
+      "race_url": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-blue-cross-nc-300/",
       "previous_winner": "Connor Zilisch",
       "series": "NASCAR Xfinity Series",
       "series_key": "xfinity_series"
