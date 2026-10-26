@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-19T12:43:57.731070",
+  "scraped_at": "2026-10-26T12:37:27.818782",
   "year": 2026,
   "schedules_by_series": {
     "nascar_cup_series": {
@@ -794,7 +794,7 @@
           "date_plain": "2026-10-25",
           "start_time": "2:00 PM",
           "scheduled_laps": 188,
-          "actual_laps": 188,
+          "actual_laps": 189,
           "qualifying_date": "2026-10-24T12:00:00-0400",
           "playoff_round": "",
           "tv_network": "NBC",
@@ -2026,7 +2026,7 @@
           "date_plain": "2026-10-23",
           "start_time": "4:00 PM",
           "scheduled_laps": 85,
-          "actual_laps": 85,
+          "actual_laps": 86,
           "qualifying_date": "2026-10-23T11:30:00-0400",
           "playoff_round": "",
           "tv_network": "FS1",
@@ -4140,7 +4140,7 @@
       "date_plain": "2026-10-23",
       "start_time": "4:00 PM",
       "scheduled_laps": 85,
-      "actual_laps": 85,
+      "actual_laps": 86,
       "qualifying_date": "2026-10-23T11:30:00-0400",
       "playoff_round": "",
       "tv_network": "FS1",
@@ -4186,7 +4186,7 @@
       "date_plain": "2026-10-25",
       "start_time": "2:00 PM",
       "scheduled_laps": 188,
-      "actual_laps": 188,
+      "actual_laps": 189,
       "qualifying_date": "2026-10-24T12:00:00-0400",
       "playoff_round": "",
       "tv_network": "NBC",
