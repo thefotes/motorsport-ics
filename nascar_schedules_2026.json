@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-26T12:37:27.818782",
+  "scraped_at": "2026-11-02T15:19:37.448953",
   "year": 2026,
   "schedules_by_series": {
     "nascar_cup_series": {
@@ -2038,7 +2038,7 @@
           "previous_winner": "Gio Ruggiero"
         },
         {
-          "race_name": "Black's Tire 200 presented by Down East Heating & Air Conditioning",
+          "race_name": "Black's Tire 200 Presented by Down East Heating & Air Conditioning",
           "race_id": 5671,
           "track_name": "Martinsville Speedway",
           "track_id": 22,
@@ -4200,7 +4200,7 @@
       "series_key": "nascar_cup_series"
     },
     {
-      "race_name": "Black's Tire 200 presented by Down East Heating & Air Conditioning",
+      "race_name": "Black's Tire 200 Presented by Down East Heating & Air Conditioning",
       "race_id": 5671,
       "track_name": "Martinsville Speedway",
       "track_id": 22,
