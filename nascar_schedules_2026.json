@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-02T15:19:37.448953",
+  "scraped_at": "2026-11-09T15:47:28.704014",
   "year": 2026,
   "schedules_by_series": {
     "nascar_cup_series": {
@@ -2064,9 +2064,9 @@
           "track_name": "Homestead-Miami Speedway",
           "track_id": 40,
           "state": "FL",
-          "date": "2026-11-06T18:30:00-0500",
+          "date": "2026-11-06T19:30:00-0500",
           "date_plain": "2026-11-06",
-          "start_time": "6:30 pm",
+          "start_time": "7:30 pm",
           "scheduled_laps": 134,
           "actual_laps": 134,
           "qualifying_date": "2026-11-06T14:30:00-0500",
@@ -4274,9 +4274,9 @@
       "track_name": "Homestead-Miami Speedway",
       "track_id": 40,
       "state": "FL",
-      "date": "2026-11-06T18:30:00-0500",
+      "date": "2026-11-06T19:30:00-0500",
       "date_plain": "2026-11-06",
-      "start_time": "6:30 pm",
+      "start_time": "7:30 pm",
       "scheduled_laps": 134,
       "actual_laps": 134,
       "qualifying_date": "2026-11-06T14:30:00-0500",
